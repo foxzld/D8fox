@@ -63,7 +63,7 @@ function mytheme_admin() {
         <td class="d_tit">Logo（标志）宽度</td>
         <td>
             <input class="d_num" name="d_logo_w" id="d_logo_w" type="number" value="<?php echo dopt('d_logo_w'); ?>"> px（像素）
-            <span class="d_tip">设置符合您站点Logo的宽度，Logo图片在主题igm文件夹下替换logo.png</span>
+            <span class="d_tip">设置符合您站点Logo的宽度，Logo图片在主题img文件夹下替换logo.png</span>
         </td>
     </tr>
     
