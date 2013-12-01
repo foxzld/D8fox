@@ -25,7 +25,7 @@ if(isset($_POST['convert']))
     <input type="button" name="reset" onclick="Empty();" id="reset" class="btn btn-primary" value="清空" />	
 </div>
 
-<h2 class="sitetip">相应的HTML代码: </h2>
+<h2 class="sitetip">转换后地址: </h2>
 
 <textarea onmouseover="this.focus();this.select();" class="tarea" ><?php if(isset($result)){echo $result;} ?></textarea>
 
