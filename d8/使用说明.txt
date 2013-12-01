@@ -1,0 +1,13 @@
+1、把W3Cshare_Tools目录里面的tools文件夹和tools.php模板上传到d-simple模板目录下；
+
+2、把counter.txt文件上传到网站根目录；（此文件是用来统计工具箱页面访问次数的）
+
+3、在后台新建页面，选择模板为Tools；
+
+压缩包已加密，解压密码：w3cshare.com
+
+
+
+<!--打个广告-->
+
+W3Cshare前端分享博客：http://w3cshare.com，欢迎您的光临！！！
