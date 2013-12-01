@@ -29,7 +29,7 @@ function mytheme_admin() {
 <div class="wrap d_wrap">
     <link rel="stylesheet" href="<?php bloginfo('template_url') ?>/admin/admin.css"/>
     <h2><?php echo $themename; ?>设置
-        <span class="d_themedesc">设计师：<a href="http://www.daqianduan.com/" target="_blank">浩子</a> &nbsp;&nbsp; <a href="http://www.daqianduan.com/theme/d8/" target="_blank">访问<?php echo $themename; ?>主页</a></span>
+        <span class="d_themedesc">设计师：<a href="http://www.daqianduan.com/" target="_blank">浩子</a> &nbsp;&nbsp; 优化 by <a href="http://foxzld.com/" target="_blank">孤独的北极狐</a>&nbsp;&nbsp;<a href="http://www.daqianduan.com/theme/d8/" target="_blank">访问<?php echo $themename; ?>主页</a></span>
     </h2>
 
 <form method="post" class="d_formwrap">
