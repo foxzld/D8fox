@@ -1,5 +1,5 @@
 <style>
-.itembox{ border:1px solid #BBD7E6; margin:10px auto;}
+.itembox{ margin:10px auto;}
 .mulu{ padding:5px; text-align:center;}
 .robot{ padding:5px;}
 .seo{ background:#BBD7E6;}
@@ -10,11 +10,11 @@ td, input, textarea, select, button{ line-height:20px;}
 .input{ width:240px;}
 </style>
 
-
+<h2 class="sitetip">robots.txt文件生成</h2>
 <form id="form1" method="get" onsubmit="return onget('IP','address')">
 <div class="box">
    <div id="b_1">
-     <h1><div class="titleft"><a href="/robots/">robots.txt文件生成</a></div></h1>
+     <h1><div class="titleft">如无法生成，请使用CTRL+F5刷新页面重新尝试</div></h1>
      <div class="box1">
       <div class="itembox">
       <div id="xianzhi">
