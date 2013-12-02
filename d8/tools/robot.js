@@ -9,7 +9,7 @@
             jQuery(".HJtxt").val('');
         })
         jQuery("#create").click(function () {
-            var text = "# robots.txt generated at http://tool.chinaz.com/robots/ \n";
+            var text = "# robots.txt generated at http://foxzld.com/ \n";
             if (jQuery("#baidu").val() != "") { text += "User-agent: Baiduspider\nDisallow:" + jQuery("#baidu").val() + "\n"; };
             if (jQuery("#soso").val() != "") { text += "User-agent: Sosospider\nDisallow:" + jQuery("#soso").val() + "\n"; }
             if (jQuery("#sogou").val() != "") { text += "User-agent: sogou spider\nDisallow:" + jQuery("#sogou").val() + "\n"; };

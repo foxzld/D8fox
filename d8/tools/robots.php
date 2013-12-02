@@ -301,7 +301,7 @@ td, input, textarea, select, button{ line-height:20px;}
       </div>
       <div class="robot">
       <div style="text-align:center"><input type="button" value="生成" class="but" id="create">&nbsp;&nbsp;<input type="button" value="清空结果" class="but" id="clear"></div>
-      <textarea align="center" class="HJtxt" style=" width:99%; height:400px;" rows="20" cols="20"># robots.txt generated at http://tool.chinaz.com/robots
+      <textarea align="center" class="HJtxt" style=" width:99%; height:400px;" rows="20" cols="20"># robots.txt generated at http://foxzld.com/
 User-agent: *
 Disallow:</textarea>
 <div style=" text-align:center;">请将以上结果保存到记事本,命名为robots.txt上传到网站根目录</div>
