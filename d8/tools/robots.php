@@ -8,13 +8,14 @@
 .xianzhi{ margin-left:190px;_margin-left:183px;}
 td, input, textarea, select, button{ line-height:20px;}
 .input{ width:240px;}
+.titlealern{color:red;}
 </style>
 
 <h2 class="sitetip">robots.txt文件生成</h2>
 <form id="form1" method="get" onsubmit="return onget('IP','address')">
 <div class="box">
    <div id="b_1">
-     <h1><div class="titleft">如无法生成，请使用CTRL+F5刷新页面重新尝试</div></h1>
+     <h3><div class="titlealern" align="center">由于该功能引入了通用jquery，如点击按钮无反应，无法生成robots.txt，请使用CTRL+F5刷新页面即可使用！</div></h3>
      <div class="box1">
       <div class="itembox">
       <div id="xianzhi">
