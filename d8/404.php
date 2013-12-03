@@ -101,7 +101,7 @@
             <p class="link_404">
                 <a href="<?php bloginfo('url'); ?>" target="_blank">博客首页</a>
                 <span>-</span>
-                <a href="http://search.dxy.cn" target="_blank">丁香搜索</a>
+                <a href="http://www.dxy.cn" target="_blank">丁香园</a>
                 <span>-</span>
                 <a href="http://6d.dxy.cn/article/20477" target="_blank">中国大陆近年恶性医患冲突案例简编</a>
             </p>
