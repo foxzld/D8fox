@@ -1,0 +1,260 @@
+/* @group General */
+
+body {  
+	direction: rtl; 
+	unicode-bidi: embed;
+}
+
+#slider {
+	direction: ltr;
+}
+
+
+
+/* @end */
+
+/* @group Header */
+
+#header .back-button {
+	left: auto;
+	right: -1px; /* RTL */
+}
+
+.smartphone .site-title a {
+	padding-left: 0px;
+	float: right;
+	padding-right: 12px;
+}
+
+#header .logo {
+	padding-left: 0px;
+	padding-right: 8px; /* RTL */
+}
+
+#header .menu-drop {
+	right: auto;
+	left: 0; /* RTL */
+}
+
+.web-app-mode #header .site-title a, .web-app-mode .logo a {
+	margin-right: auto; /* RTL */
+	margin-left: auto; /* RTL */
+}
+
+ul.tab-menu a {
+	margin-left: 0px;
+	margin-right: -6px; /* RTL */
+}
+
+.light-header #header .menu-drop {
+	border-left: 0px;
+	border-right: 1px solid rgba(0,0,0,.2); /* RTL */
+}
+
+.light-header #header .back-button {
+	border-right: 0px;
+	border-left: 1px solid rgba(0,0,0,.2); /* RTL */
+}
+
+.light-header ul.tab-menu a {
+	border-left: 1px solid rgba(0,0,0,.1); /* RTL */
+	border-right: 1px solid rgba(0,0,0,0); /* RTL */
+}
+
+.dark-header #header .menu-drop {
+	border-left: 0px;
+	border-right: 1px solid rgba(0,0,0,.2); /* RTL */
+}
+
+.dark-header #header .back-button {
+	border-right: 0px;
+	border-left: 1px solid rgba(0,0,0,.2); /* RTL */
+}
+
+.dark-header ul.tab-menu a {
+	border-left: 1px solid rgba(0,0,0,.1); /* RTL */
+	border-right: 1px solid rgba(0,0,0,0); /* RTL */
+}
+
+.rtl .cat-tag li a span {
+	float: left;
+}
+
+.back-button {
+	float: right; /* RTL */
+}
+
+.back-button+.nav-controls {
+	float: left; /* RTL */
+}
+
+/* @end */
+
+/* @group Twitter */
+
+.twitter .author-link {
+	padding-right: 8px;
+}
+
+.twitter .author-link img {
+	margin-right: 0px;
+	left: auto;
+	margin-left: 8px; /* RTL */
+	right: 4px; /* RTL */
+}
+
+.twitter .tweet-time {
+	margin-right: 0px;
+	text-align: left; /* RTL */
+	margin-left: 20px; /* RTL */
+}
+
+.twitter .tweet-link {
+	right: auto;
+	left: 7px; /* RTL */
+}
+
+/* @end */
+
+/* @group Blog */
+
+#content .show-thumbnails h2.post-title {
+	padding-left: 0px;
+	padding-right: 60px; /* RTL */
+}
+
+.text-expand {
+	float: left; /* RTL */
+}
+
+.read-more i {
+	float: left;
+	line-height: 1.5em;
+}
+
+.show-thumbnails .post-meta {
+	padding-left: 0px;
+	padding-right: 65px; /* RTL */
+}
+
+.post img.post-thumbnail, .post .placeholder {
+	margin-right: 0px;
+	float: right; /* RTL */
+	margin-left: 10px; /* RTL */
+}
+
+.spinner {
+	margin-right: 0px;
+	margin-left: 8px; /* RTL */
+}
+
+h2.archive-title {
+	margin-right: 12px; /* RTL */
+	margin-left: 10px; /* RTL */
+}
+
+#content #title-area h2.post-title {
+	text-align: right; /* RTL */
+	padding-right: 15px; /* RTL */
+	padding-left: 15px; /* RTL */
+}
+
+.single .post-meta {
+	text-align: right; /* RTL */
+	padding-right: 15px; /* RTL */
+	padding-left: 15px; /* RTL */
+}
+
+.nav-bar {
+	margin-right: 12px; /* RTL */
+	margin-left: 12px; /* RTL */
+}
+
+.nav-controls a.prev-post+a.next-post {
+	padding-left: 0px;
+	margin-left: 0px;
+	padding-right: 8px; /* RTL */
+	margin-right: 4px; /* RTL */
+}
+
+#search-text {
+	margin-right: 0px;
+	margin-left: 1.5%; /* RTL */
+}
+
+h3.search-heading {
+	margin-right: 12px; /* RTL */
+	margin-left: 12px; /* RTL */
+}
+
+.search li.post a:after {
+	margin-left: 0px;
+	margin-right: 5px; /* RTL */
+}
+
+.rtl .nav-controls a.prev-post::before {
+	content: '\f054';
+}
+
+.rtl .nav-controls a.next-post::after {
+	content: '\f053';
+}
+
+
+
+/* @end */
+
+/* @group Comments */
+
+h3#responses {
+	margin-right: 10px; /* RTL */
+	margin-left: 10px; /* RTL */
+}
+
+h3#responses:before {
+	margin-right: 0px;
+	margin-left: 5px; /* RTL */
+}
+
+ol.commentlist {
+	margin-left: 10px; /* RTL */
+	margin-right: 10px; /* RTL */
+}
+
+.comment img.avatar {
+	margin-right: 0px;
+	float: right; /* RTL */
+	margin-left: 8px; /* RTL */
+}
+
+/* @end */
+
+/* @group Tablets */
+
+.tablet #content {
+	float: left; /* RTL */
+}
+
+.tablet .wptouch-mobile-switch {
+	float: left; /* RTL */
+}
+
+.tablet .footer {
+	float: left; /* RTL */
+}
+
+.tablet .wptouch-ad {
+	left: auto;
+	right: 0; /* RTL */
+}
+
+.tablet #slider {
+	float: left;
+}
+
+.tablet ul.dots {
+	margin-right: 30%;
+	margin-left: auto; /* RTL */
+}
+
+/* @end */

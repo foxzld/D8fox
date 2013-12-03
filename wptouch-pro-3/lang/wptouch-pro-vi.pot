@@ -1,0 +1,2000 @@
+# Copyright (C) 2013 WPtouch Pro
+# This file is distributed under the same license as the WPtouch Pro package.
+msgid ""
+msgstr "Project-Id-Version: WPtouch Pro 3.0.2\nReport-Msgid-Bugs-To: http://wordpress.org/tag/wptouch-pro-3\nPOT-Creation-Date: 2013-05-21 17:45:27+00:00\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPO-Revision-Date: 2013-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\n"
+
+#: admin/html/help.php:1
+msgid "WPtouch Pro Help & Account Links"
+msgstr "Trợ giúp & đường dẫn tài khoản của WPtouch Pro"
+
+#: admin/html/help.php:3
+msgid "Support Forums"
+msgstr "Hỗ trợ các diễn đàn"
+
+#: admin/html/help.php:4
+msgid "Documentation"
+msgstr "Tài liệu"
+
+#: admin/html/help.php:5
+msgid "Account & Downloads"
+msgstr "Tài khoản & Tập tin tải xuống"
+
+#: admin/html/help.php:6
+msgid "BraveNewCode on Twitter"
+msgstr "BraveNewCode trên Twitter"
+
+#: admin/html/help.php:7
+msgid "Plugin Licensing Terms"
+msgstr "Điều khoản cấp phép trình nhúng"
+
+#: admin/html/notification-center.php:5
+msgid "Preview Mode %sOn%s"
+msgstr "Chế độ xem trước %sBật%s"
+
+#: admin/html/notification-center.php:9
+msgid "Notifications"
+msgstr "Thông báo"
+
+#: admin/html/notification-content.php:20
+msgid "No notifications"
+msgstr "Không có thông báo"
+
+#: admin/html/plugin-area.php:7
+msgid "This copy of WPtouch Pro is unlicensed! Please %sactivate your license%s, or %spurchase a license%s to enable automatic updates and full product support from us!"
+msgstr "Bản sao này của WPtouch Pro chưa được cấp phép! Vui lòng %skích hoạt giấy phép%s, hoặc %smua giấy phép%s để bật các bản cập nhật tự động và nhận hỗ trợ sản phẩm toàn diện từ chúng tôi!"
+
+#: admin/html/plugin-area.php:9
+msgid "This copy of WPtouch Pro is unlicensed! Please contact the site administrator regarding product licensing."
+msgstr "Bản sao này của WPtouch Pro chưa được cấp phép! Hãy liên hệ với quản trị viên của trang web về vấn đề cấp phép sản phẩm."
+
+#: admin/pages/custom/theme-browser-item.php:7
+msgid "Click to view screenshots"
+msgstr "Bấm để xem các ảnh chụp màn hình"
+
+#: admin/pages/custom/theme-browser-item.php:12
+#: admin/pages/custom/wptouch-admin-license.php:23
+msgid "Activate"
+msgstr "Kích hoạt"
+
+#: admin/pages/custom/theme-browser-item.php:14
+msgid "Copy"
+msgstr "Sao chép"
+
+#: admin/pages/custom/theme-browser-item.php:16
+#: admin/settings/custom/html/custom_icon_management.php:12
+#: admin/settings/default/html/image-upload.php:13
+msgid "Delete"
+msgstr "Xóa"
+
+#: admin/pages/custom/theme-browser-item.php:19
+msgid "Setup"
+msgstr "Cài đặt"
+
+#: admin/pages/custom/theme-browser-item.php:55
+msgid "This theme supports %s devices"
+msgstr "Chủ đề này hỗ trợ %s thiết bị"
+
+#: admin/pages/custom/theme-browser-item.php:61
+msgid "a child theme of %s,"
+msgstr "một chủ đề trẻ thơ của %s,"
+
+#: admin/pages/custom/theme-browser-item.php:63
+#: admin/settings/custom/html/installed_icon_sets_ajax.php:8
+#: admin/settings/custom/html/installed_icon_sets_ajax.php:19
+msgid "by %s"
+msgstr "bởi %s"
+
+#: admin/pages/custom/theme-browser-item.php:68
+msgid "Theme location: %s"
+msgstr "Vị trí chủ đề: %s"
+
+#: admin/pages/custom/theme-browser-item.php:69
+msgid "Relative to your WordPress wp-content directory."
+msgstr "Có mối quan hệ với đường dẫn WordPress wp-nội dung của bạn."
+
+#: admin/pages/custom/wptouch-admin-license.php:9
+msgid "License Details"
+msgstr "Chi tiết giấy phép"
+
+#: admin/pages/custom/wptouch-admin-license.php:11
+msgid "Note"
+msgstr "Ghi chú"
+
+#: admin/pages/custom/wptouch-admin-license.php:12
+msgid "Once you activate, this page will be hidden."
+msgstr "Khi bạn kích hoạt, trang này sẽ được ẩn đi"
+
+#: admin/pages/custom/wptouch-admin-license.php:15
+msgid "It will only reappear if you reset your WPtouch Pro settings."
+msgstr "Nó sẽ chỉ tái xuất hiện nếu bạn đặt lại các cài đặt WPtouch Pro của bạn."
+
+#: admin/pages/custom/wptouch-admin-license.php:18
+msgid "Account E-Mail Address"
+msgstr "Địa chỉ tài khoản thư điện tử"
+
+#: admin/pages/custom/wptouch-admin-license.php:20
+msgid "Product License Key"
+msgstr "Khóa mã Giấy phép Sản phẩm"
+
+#: admin/pages/custom/wptouch-admin-license.php:33
+msgid "And boom. You're done."
+msgstr "Và bùm. Bạn đã thao tác xong."
+
+#: admin/pages/custom/wptouch-admin-license.php:34
+msgid "Activation Complete. Enjoy WPtouch Pro!"
+msgstr "Kích hoạt hoàn tất. Tận hưởng WPtouch Pro!"
+
+#: admin/pages/custom/wptouch-admin-license.php:38
+msgid "Check that spelling, one more time."
+msgstr "Kiểm tra chính tả một lần nữa"
+
+#: admin/pages/custom/wptouch-admin-license.php:39
+msgid "The bravenewcode.com server rejected your E-Mail address and/or License Key. Please check they are correct and try again."
+msgstr "Máy chủ bravenewcode.com đã từ chối địa chỉ thư điện tử của bạn và/hoặc khóa mã giấy phép. Hãy kiểm tra xem chúng đã chính xác chưa và thử lại."
+
+#: admin/pages/custom/wptouch-admin-license.php:43
+msgid "Too many cooks in the kitchen!"
+msgstr "Có quá nhiều đầu bếp trong bếp!"
+
+#: admin/pages/custom/wptouch-admin-license.php:44
+msgid "The bravenewcode.com server says you’ve used all your activations. What do you want to do?"
+msgstr "Máy chủ bravenewcode.com nói rằng bạn vừa sử dụng tất cả kích hoạt của bạn. Bạn muốn làm điều gì?"
+
+#: admin/pages/custom/wptouch-admin-license.php:45
+msgid "Upgrade My License"
+msgstr "Nâng cấp Giấy phép của tôi"
+
+#: admin/pages/custom/wptouch-admin-license.php:46
+msgid "Manage My Licenses"
+msgstr "Quản lý các giấy phép của tôi"
+
+#: admin/pages/custom/wptouch-admin-license.php:50
+msgid "The server seems confused."
+msgstr "Máy chủ có vẻ nhầm lẫm."
+
+#: admin/pages/custom/wptouch-admin-license.php:51
+msgid "The bravenewcode.com server can’t seem to authorize your E-Mail address and License Key. It’s not your fault."
+msgstr "Máy chủ bravenewcode.com dường như không thể xác thực địa chỉ thư điện tử và Khóa bản quyền. Đây không phải lỗi của bạn."
+
+#: admin/pages/custom/wptouch-admin-license.php:52
+msgid "Please %scontact us%s and let us know about it."
+msgstr "Hãy %sliên hệ với chúng tôi%s và cho chúng tôi biết về nó."
+
+#: admin/pages/wptouch-admin-general-settings.php:3
+#: themes/foundation/root-functions.php:10
+msgid "General"
+msgstr "Giới thiệu chung"
+
+#: admin/pages/wptouch-admin-general-settings.php:4
+msgid "Compatibility"
+msgstr "Tương thích"
+
+#: admin/pages/wptouch-admin-general-settings.php:10
+msgid "Auto-detect"
+msgstr "Tự động dò tìm"
+
+#: admin/pages/wptouch-admin-general-settings.php:44
+msgid "Regionalization"
+msgstr "Sự phân vùng"
+
+#: admin/pages/wptouch-admin-general-settings.php:50
+msgid "Language"
+msgstr "Ngôn ngữ"
+
+#: admin/pages/wptouch-admin-general-settings.php:51
+msgid "The WPtouch Pro admin panel &amp; supported themes will be shown in this locale."
+msgstr "Các chủ đề được hỗ trợ của thanh quản trị WPtouch Pro &amp; sẽ được hiển thị trong khu vực này."
+
+#: admin/pages/wptouch-admin-general-settings.php:59
+msgid "Translate administration panel text"
+msgstr "Dịch văn bản trên bảng quản trị"
+
+#: admin/pages/wptouch-admin-general-settings.php:70
+msgid "Site Title & Byline"
+msgstr "Tiêu đề trang & Tên tác giả"
+
+#: admin/pages/wptouch-admin-general-settings.php:76
+msgid "WPtouch Pro site title"
+msgstr "Tiêu đề trang WPtouch Pro"
+
+#: admin/pages/wptouch-admin-general-settings.php:77
+msgid "If the title of your site is long, you can shorten it for display within WPtouch Pro themes."
+msgstr "Nếu tiêu đề của trang quá dài, bạn có thể rút ngắn nó để hiển thị trong các chủ đề của WPtouch Pro."
+
+#: admin/pages/wptouch-admin-general-settings.php:84
+msgid "Display %sPowered by WPtouch Pro%s in footer"
+msgstr "Hiển thị %sĐược hỗ trợ bởi WPtouch Pro%s ở chân trang"
+
+#: admin/pages/wptouch-admin-general-settings.php:95
+msgid "Landing Page"
+msgstr "Trang Chuyển tiếp"
+
+#: admin/pages/wptouch-admin-general-settings.php:101
+msgid "WPtouch Pro landing page"
+msgstr "Trang chuyển WPtouch Pro"
+
+#: admin/pages/wptouch-admin-general-settings.php:106
+msgid "Default (same as WordPress)"
+msgstr "Mặc định (giống như WordPress)"
+
+#: admin/pages/wptouch-admin-general-settings.php:107
+msgid "Select from WordPress pages"
+msgstr "Chọn từ các trang WordPress"
+
+#: admin/pages/wptouch-admin-general-settings.php:115
+msgid "Custom Slug or URL"
+msgstr "Tùy chỉnh Slug hoặc URL"
+
+#: admin/pages/wptouch-admin-general-settings.php:116
+msgid "Enter a Slug (i.e. \"/home\") or a full URL path"
+msgstr "Nhập một Slug (tức là. \"/home\") hoặc một đường dẫn URL đầy đủ"
+
+#: admin/pages/wptouch-admin-general-settings.php:126
+msgid "Desktop / Mobile Switching"
+msgstr "Chuyển đổi Máy bàn/ Di động"
+
+#: admin/pages/wptouch-admin-general-settings.php:132
+msgid "1st time visitors see desktop theme"
+msgstr "Những khách truy cập lần đầu thấy chủ đề màn hình chính"
+
+#: admin/pages/wptouch-admin-general-settings.php:133
+msgid "Your regular theme will be shown to 1st time mobile visitors."
+msgstr "Chủ đề quen thuộc của bạn sẽ được hiển thị cho những khách viếng thăm di động lần đầu."
+
+#: admin/pages/wptouch-admin-general-settings.php:140
+msgid "Show switch link in mobile view"
+msgstr "Hiện đường dẫn chuyển đổi ở chế độ xem di động"
+
+#: admin/pages/wptouch-admin-general-settings.php:141
+msgid "Will show toggle buttons in the theme's footer allowing users to switch to your desktop theme. Is not shown in Web-App Mode."
+msgstr "Sẽ hiển thị các nút toggle trong chân trang chủ đề cho phép người dùng để chuyển sang chủ đề màn hình chính. Không được hiển thị ở chế độ Web-Ứng dụng."
+
+#: admin/pages/wptouch-admin-general-settings.php:148
+msgid "Choose the target for the mobile switch link"
+msgstr "Chọn đích cho đường dẫn chuyển đổi di động"
+
+#: admin/pages/wptouch-admin-general-settings.php:153
+msgid "Current page"
+msgstr "Trang hiện thời"
+
+#: admin/pages/wptouch-admin-general-settings.php:154
+msgid "Home page"
+msgstr "Trang chủ"
+
+#: admin/pages/wptouch-admin-general-settings.php:160
+msgid "Desktop theme switch buttons"
+msgstr "Các nút chuyển đổi chủ đề màn hình chính."
+
+#: admin/pages/wptouch-admin-general-settings.php:161
+msgid "Allows visitors to switch from your desktop theme to your mobile theme. You can also customize the placement of Switch buttons by placing the wptouch_desktop_switch_link() template tag somewhere in your desktop theme."
+msgstr "Cho phép những người truy cập chuyển từ chủ đề màn hình chính sang chủ đề di động của bạn. Bạn cũng có thể tùy chỉnh vị trí của các nút Chuyển đổi bằng cách đặt tag khuôn mẫu wptouch_desktop_switch_link() ở vị trí nào đó trong chủ đề màn hình chính của bạn."
+
+#: admin/pages/wptouch-admin-general-settings.php:165
+msgid "Automatically inserted"
+msgstr "Đã được chèn tự động"
+
+#: admin/pages/wptouch-admin-general-settings.php:166
+msgid "Template tag"
+msgstr "Tag khuôn mẫu"
+
+#: admin/pages/wptouch-admin-general-settings.php:175
+msgid "Custom Code"
+msgstr "Mã Tùy Chỉnh"
+
+#: admin/pages/wptouch-admin-general-settings.php:181
+msgid "HTML, JavaScript, statistics or custom code"
+msgstr "HTML, JavaScript, thống kê hoặc mã tùy chọn"
+
+#: admin/pages/wptouch-admin-general-settings.php:182
+msgid "Enter any custom code here to be output in the theme footer."
+msgstr "Nhập bất cứ mã tùy chỉnh ở đây để được xuất ra trong chân trang chủ đề."
+
+#: admin/pages/wptouch-admin-general-settings.php:192
+msgid "Custom Stylesheet"
+msgstr "Tùy chỉnh kiểu bảng biểu"
+
+#: admin/pages/wptouch-admin-general-settings.php:198
+msgid "URL to a custom CSS file to load"
+msgstr "URL đến một tập tin CSS tùy chỉnh để tải"
+
+#: admin/pages/wptouch-admin-general-settings.php:199
+msgid "Useful if you have specific compatibility CSS you need to add."
+msgstr "Hữu ích nếu bạn có CSS tương thích cụ thể bạn cần để thêm vào."
+
+#: admin/pages/wptouch-admin-general-settings.php:209
+msgid "Shortcodes"
+msgstr "Các mã ngắn"
+
+#: admin/pages/wptouch-admin-general-settings.php:215
+msgid "Remove these shortcodes when WPtouch Pro is active"
+msgstr "Xóa những mã ngắn này khi WPtouch đang hoạt động"
+
+#: admin/pages/wptouch-admin-general-settings.php:216
+msgid "Enter a comma separated list of shortcodes to remove."
+msgstr "Nhập danh sách chia tách bằng dấu phẩy của các mã ngắn để xóa."
+
+#: admin/pages/wptouch-admin-general-settings.php:226
+msgid "Ignored URLs"
+msgstr "URL đã bị bỏ qua"
+
+#: admin/pages/wptouch-admin-general-settings.php:232
+msgid "Do not load WPtouch Pro on these URLs/Pages"
+msgstr "Không tải WPtouch Pro trên những URL/Trang này"
+
+#: admin/pages/wptouch-admin-general-settings.php:233
+msgid "Each permalink URL fragment should be on its own line and relative, e.g. \"/about\" or \"/products/store\""
+msgstr "Mỗi đoạn của đường dẫn cố định ULR nên ở trên chính dòng của nó và ở vị trí tương đối, ví dụ \"/about\" hoặc \"/products/store\""
+
+#: admin/pages/wptouch-admin-general-settings.php:243
+msgid "Desktop Theme"
+msgstr "Màn hình chính"
+
+#: admin/pages/wptouch-admin-general-settings.php:249
+msgid "Try to include desktop theme functions.php file"
+msgstr "Thử gộp tập tin các chức năng chủ đề màn hình .php"
+
+#: admin/pages/wptouch-admin-general-settings.php:250
+msgid "This may be required for desktop themes with unique features that are not showing when WPtouch Pro is active."
+msgstr "Điều này có thể cần cho các chủ đề màn hình chính với những tính năng độc đáo mà sẽ không được hiển thị khi WPtouch Pro đang hoạt động."
+
+#: admin/pages/wptouch-admin-general-settings.php:257
+msgid "Method to load file"
+msgstr "Phương pháp tải tập tin"
+
+#: admin/pages/wptouch-admin-general-settings.php:262
+msgid "Include file directly"
+msgstr "Gồm tập tin trực tiếp"
+
+#: admin/pages/wptouch-admin-general-settings.php:263
+msgid "Translate and create new files"
+msgstr "Dịch và tạo các tập tin mới"
+
+#: admin/pages/wptouch-admin-general-settings.php:272
+msgid "Custom User-Agents"
+msgstr "Tùy chỉnh Người dùng - Đại lý"
+
+#: admin/pages/wptouch-admin-general-settings.php:278
+msgid "User-agents (line separated)"
+msgstr "Người dùng-đại lý (tách dòng)"
+
+#: admin/pages/wptouch-admin-general-settings.php:279
+msgid "Adding additional user-agents will force WPtouch Pro to be active for matching browsers."
+msgstr "Bổ sung thêm người dùng-đại lý sẽ buộc WPtouch phải hoạt động để khớp các trình duyệt."
+
+#: admin/pages/wptouch-admin-general-settings.php:293
+msgid "Backup &amp; Import"
+msgstr "Sao lưu &amp; Nhập"
+
+#: admin/pages/wptouch-admin-general-settings.php:299
+msgid "Automatically backup settings to the %s folder"
+msgstr "Tự động sao lưu cài đặt đến thư mục %s"
+
+#: admin/pages/wptouch-admin-general-settings.php:301
+msgid "WPtouch Pro backups your settings each time they are saved."
+msgstr "WPtouch Pro sao lưu các cài đặt của bạn mỗi lần chúng được lưu."
+
+#: admin/pages/wptouch-admin-general-settings.php:312
+msgid "Tools &amp; Debug"
+msgstr "Công cụ &amp; Sửa lỗi"
+
+#: admin/pages/wptouch-admin-general-settings.php:318
+msgid "Preview mode"
+msgstr "Chế độ xem trước"
+
+#: admin/pages/wptouch-admin-general-settings.php:319
+msgid "Will show WPtouch Pro in desktop browsers for logged in admin users."
+msgstr "Sẽ hiển thị WPtouch Pro trong các trình duyệt màn hình chính cho những người dùng quản trị đã đăng nhập."
+
+#: admin/pages/wptouch-admin-general-settings.php:323
+msgid "On"
+msgstr "Bật"
+
+#: admin/pages/wptouch-admin-general-settings.php:324
+msgid "Off"
+msgstr "Tắt"
+
+#: admin/pages/wptouch-admin-general-settings.php:330
+msgid "Use jQuery 2.0 in themes (faster for mobile devices) instead of WordPress' version"
+msgstr "Sử dụng jQuery 2.0 trong các chủ đề (nhanh hơn đối với các thiết bị di động) thay vì phiên bản của WordPress"
+
+#: admin/pages/wptouch-admin-general-settings.php:331
+msgid "jQuery 2.0 is significantly smaller and faster than previous jQuery versions - may cause problems with other plugins, use carefully."
+msgstr "jQuery 2.0 nhỏ hơn và nhanh hơn rất nhiều các phiên bản jQuery trước đây - có thể gây ra các lỗi với các trình nhúng khác, cẩn thận khi sử dụng."
+
+#: admin/pages/wptouch-admin-general-settings.php:338
+msgid "Show load times and query counts in the footer"
+msgstr "Hiển thị số lần tải và số lần đếm truy vấn ở chân trang"
+
+#: admin/pages/wptouch-admin-general-settings.php:339
+msgid "Helps you find slow pages/posts on your site."
+msgstr "Giúp bạn tìm các trang/băng đăng chậm trên trang của bạn."
+
+#: admin/pages/wptouch-admin-general-settings.php:346
+msgid "Enable debug log"
+msgstr "Bật nhật ký sửa lỗi"
+
+#: admin/pages/wptouch-admin-general-settings.php:347
+msgid "Creates a debug file to help diagnose installation issues."
+msgstr "Tạo tập tin sửa lỗi để giúp chuẩn đoán các lỗi cài đặt."
+
+#: admin/pages/wptouch-admin-general-settings.php:358
+msgid "WordPress Plugins"
+msgstr "Các trình nhúng WordPress"
+
+#: admin/pages/wptouch-admin-general-settings.php:371
+msgid "Admin Mode"
+msgstr "Chế độ quản trị"
+
+#: admin/pages/wptouch-admin-general-settings.php:377
+msgid "Admin panel settings shown"
+msgstr "Cài đặt bảng quản trị được hiển thị"
+
+#: admin/pages/wptouch-admin-general-settings.php:382
+msgid "Default"
+msgstr "Mặc định"
+
+#: admin/pages/wptouch-admin-general-settings.php:383
+#: admin/settings/default/html/checkbox.php:6
+#: admin/settings/default/html/list.php:16
+#: admin/settings/default/html/numeric.php:12
+#: admin/settings/default/html/radiolist.php:12
+#: admin/settings/default/html/text.php:8
+#: admin/settings/default/html/textarea.php:8
+msgid "Advanced"
+msgstr "Nâng cao"
+
+#: admin/pages/wptouch-admin-menus.php:3
+msgid "Theme Menus"
+msgstr "Trình đơn chủ đề"
+
+#: admin/pages/wptouch-admin-menus.php:4
+msgid "Menu Setup"
+msgstr "Cài đặt Trình đơn"
+
+#: admin/pages/wptouch-admin-menus.php:5
+msgid "Icon Upload & Sets"
+msgstr "Tải lên & Bộ biểu tượng"
+
+#: admin/pages/wptouch-admin-menus.php:22
+msgid "WordPress Pages"
+msgstr "Các trang WordPress"
+
+#: admin/pages/wptouch-admin-menus.php:28
+#: admin/settings/custom/html/icon_menu_area.php:6
+#: themes/foundation/root-functions.php:387
+#: themes/foundation/root-functions.php:801
+msgid "None"
+msgstr "Không"
+
+#: admin/pages/wptouch-admin-menus.php:66
+msgid "Menu Options"
+msgstr "Tùy chọn Trình đơn"
+
+#: admin/pages/wptouch-admin-menus.php:72
+msgid "Enable parent items as links"
+msgstr "Bật các hạng mục cấp trên như các đường dẫn"
+
+#: admin/pages/wptouch-admin-menus.php:73
+msgid "If disabled, parent menu items will only toggle child items."
+msgstr "Nếu đã tắt, các hạng mục trình đơn cấp trên sẽ chỉ đảo các hạng mục con."
+
+#: admin/pages/wptouch-admin-menus.php:80
+msgid "Use menu icons"
+msgstr "Sử dụng biểu tượng trình đơn"
+
+#: admin/pages/wptouch-admin-menus.php:104
+msgid "Icon Upload"
+msgstr "Tải lên biểu tượng"
+
+#: admin/pages/wptouch-admin-menus.php:117
+msgid "Uploaded Icons"
+msgstr "Biểu tượng đã được tải lên"
+
+#: admin/pages/wptouch-admin-menus.php:130
+msgid "Icon Sets"
+msgstr "Các gói biểu tượng"
+
+#: admin/pages/wptouch-admin-touchboard.php:3 core/admin-menu.php:27
+msgid "Overview"
+msgstr "Tổng quan"
+
+#: admin/settings/custom/html/backup.php:1
+msgid "Download Backup File"
+msgstr "Tải xuống tập tin sao lưu"
+
+#: admin/settings/custom/html/backup.php:2
+msgid "Restore Backup File"
+msgstr "Khôi phục tập tin sao lưu"
+
+#: admin/settings/custom/html/custom_icon_management.php:3
+msgid "No icons have been uploaded yet"
+msgstr "Không có biểu tượng nào được tải lên"
+
+#: admin/settings/custom/html/custom_icon_upload.php:3
+msgid "Upload Icon"
+msgstr "Biểu tượng tải lên"
+
+#: admin/settings/custom/html/custom_icon_upload.php:4
+#: admin/settings/default/html/image-upload.php:15
+msgid "Upload Complete!"
+msgstr "Hoàn tất Tải lên!"
+
+#: admin/settings/custom/html/custom_icon_upload.php:9
+msgid "Ready to upload"
+msgstr "Sẵn sàng để tải lên"
+
+#: admin/settings/custom/html/icon_menu_area.php:5
+msgid "Check All"
+msgstr "Đánh dấu toàn bộ"
+
+#: admin/settings/custom/html/icon_menu_area.php:7
+msgid "Reset"
+msgstr "Cài đặt lại"
+
+#: admin/settings/custom/html/icon_menu_area.php:9
+#: themes/classic-redux/default/header-bottom.php:22
+#: themes/classic-redux/default/header-bottom.php:34
+#: themes/classic-redux/default/header-bottom.php:100
+msgid "Menu"
+msgstr "Trình đơn"
+
+#: admin/settings/custom/html/icon_menu_area.php:19
+msgid "Active menus used in this theme."
+msgstr "Các trình đơn hoạt động được sử dụng trong chủ đề này."
+
+#: admin/settings/custom/html/icon_menu_area.php:23
+msgid "Show/Hide"
+msgstr "Hiển thị/Ẩn"
+
+#: admin/settings/custom/html/icon_menu_area.php:24
+msgid "Menu Item"
+msgstr "Mục của trình đơn"
+
+#: admin/settings/custom/html/icon_menu_area.php:44
+msgid "Icon Set"
+msgstr "Gói biểu tượng"
+
+#: admin/settings/custom/html/icon_menu_area.php:54
+msgid "Drag icons to associate them with menu items"
+msgstr "Kéo các biểu tượng để liên kết chúng với các mục của trình đơn"
+
+#: admin/settings/custom/html/icon_menu_area.php:79
+msgid "You don't have any custom icons yet."
+msgstr "Bạn không còn bất cứ biểu tượng tùy chỉnh nào."
+
+#: admin/settings/custom/html/icon_menu_area.php:95
+msgid "Default Icon"
+msgstr "Biểu tượng Mặc định"
+
+#: admin/settings/custom/html/icon_menu_area.php:96
+msgid "applies to all unset icons"
+msgstr "áp dụng cho tất cả các biểu tượng chưa đặt"
+
+#: admin/settings/custom/html/icon_menu_area.php:104
+msgid "Trash"
+msgstr "Thùng rác"
+
+#: admin/settings/custom/html/icon_menu_area.php:105
+msgid "drag icon here to reset"
+msgstr "kéo biểu tượng tại đây để cài đặt lại"
+
+#: admin/settings/custom/html/installed_icon_sets.php:2
+msgid "Gathering information about available icon sets..."
+msgstr "Thu thập thông tin về các bộ biểu tượng có sẵn..."
+
+#: admin/settings/custom/html/installed_icon_sets.php:4
+#: core/notifications.php:235
+msgid "The %s%s%s directory is not currently writable. %sPlease fix this issue to enable installation of additional icon sets."
+msgstr "Hướng dẫn %s%s%s hiện không thể ghi được. %sVui lòng sửa lỗi này để bật chế độ cài đặt của các bộ biểu tượng bổ sung."
+
+#: admin/settings/custom/html/installed_icon_sets_ajax.php:4
+#: core/class-wptouch-pro.php:1184 core/class-wptouch-pro.php:1185
+#: core/config.php:39
+msgid "Custom Icons"
+msgstr "Các biểu tượng tùy chỉnh"
+
+#: admin/settings/custom/html/installed_icon_sets_ajax.php:9
+#: admin/settings/custom/html/installed_icon_sets_ajax.php:21
+msgid "Installed"
+msgstr "Đã cài đặt"
+
+#: admin/settings/custom/html/installed_icon_sets_ajax.php:20
+msgid "Installing..."
+msgstr "Đang cài đặt..."
+
+#: admin/settings/custom/html/installed_icon_sets_ajax.php:20
+msgid "Install"
+msgstr "Cài đặt"
+
+#: admin/settings/custom/html/installed_icon_sets_ajax.php:22
+msgid "Unable to Install"
+msgstr "Không thể cài đặt"
+
+#: admin/settings/custom/html/plugin-compat-ajax.php:11
+#: themes/foundation/modules/custom-posts/custom-posts.php:63
+msgid "Enable %s"
+msgstr "Bật %s"
+
+#: admin/settings/custom/html/plugin-compat-ajax.php:12
+msgid "When unchecked, %s will be disabled for users viewing your WPtouch Pro theme."
+msgstr "Khi chưa được kiểm tra, %s sẽ bị tắt đối với những người dùng đang xem chủ đề WPtouch Pro của bạn."
+
+#: admin/settings/custom/html/plugin-compat-ajax.php:20
+msgid "No plugins to disable."
+msgstr "Không có trình nhúng để tắt."
+
+#: admin/settings/custom/html/plugin-compat.php:3
+msgid "Your active plugin list is refreshing"
+msgstr "Danh sách trình nhúng hoạt động của bạn đang được làm mới"
+
+#: admin/settings/custom/html/restore.php:2
+msgid "Please paste your encoded settings below and save to restore your settings."
+msgstr "Hãy dán các cài đặt được mã hóa của bạn vào dưới đây và lưu để khôi phục cài đặt của bạn."
+
+#: admin/settings/custom/html/touchboard.php:5
+msgid "This copy of %s is currently unlicensed!"
+msgstr "Hiện bạn sao của %s chưa được cấp phép!"
+
+#: admin/settings/custom/html/touchboard.php:7
+msgid "Get started with activation &raquo;"
+msgstr "Hãy bắt đầu bằng việc kích hoạt &raquo;"
+
+#: admin/settings/custom/html/touchboard.php:16
+msgid "Loading remote images"
+msgstr "Đang tải các hình ảnh từ xa"
+
+#: admin/settings/custom/html/touchboard.php:27
+msgid "Get Support"
+msgstr "Nhận sự hỗ trợ"
+
+#: admin/settings/custom/html/touchboard.php:28
+msgid "File tickets and get direct support for WPtouch Pro from BraveNewCode"
+msgstr "Các nhãn tập tin và nhận hỗ trợ trực tiếp cho WPtouch Pro từ BraveNewCode"
+
+#: admin/settings/custom/html/touchboard.php:31
+msgid "Knowledgebase"
+msgstr "Cơ sở kiến thức"
+
+#: admin/settings/custom/html/touchboard.php:32
+msgid "Read helpful tutorials and product articles to get the most out of WPtouch Pro"
+msgstr "Đọc các tài liệu hướng dẫn và các bài viết về sản phẩm hữu ích để sử dụng tối đa tính năng của WPtouch Pro"
+
+#: admin/settings/custom/html/touchboard.php:35
+msgid "Product Updates"
+msgstr "Các bản cập nhật sản phẩm"
+
+#: admin/settings/custom/html/touchboard.php:36
+msgid "Check out what's new in the WPtouch Pro update change log"
+msgstr "Kiểm tra xem có điều gì mới trong nhật ký thay đổi cập nhật của WPtouch Pro"
+
+#: admin/settings/custom/html/touchboard.php:39
+msgid "Manage Account"
+msgstr "Quản lý Tài khoản"
+
+#: admin/settings/custom/html/touchboard.php:40
+msgid "Add or edit your active sites, or upgrade your license"
+msgstr "Thêm hoặc chỉnh sửa các trang đang hoạt động của bạn, hoặc năng cấp giấy phép của bạn."
+
+#: admin/settings/custom/html/touchboard.php:47
+msgid "%s Change Log"
+msgstr "Nhật ký thay đổi của %s"
+
+#: admin/settings/custom/html/touchboard.php:58
+msgid "WPtouch News"
+msgstr "Tin tức WPtouch"
+
+#: admin/settings/default/html/checkbox.php:7
+#: admin/settings/default/html/list.php:20
+#: admin/settings/default/html/numeric.php:16
+#: admin/settings/default/html/radiolist.php:14
+#: admin/settings/default/html/text.php:9
+#: admin/settings/default/html/textarea.php:9
+msgid "New"
+msgstr "Mới"
+
+#: admin/settings/default/html/color.php:6
+msgid "Undo"
+msgstr "Hoàn tác"
+
+#: admin/settings/default/html/color.php:7
+msgid "Desktop theme colors"
+msgstr "Các màu sắc chủ đề màn hình chính"
+
+#: admin/settings/default/html/color.php:7
+msgid "Palette"
+msgstr "Bảng màu"
+
+#: admin/settings/default/html/debuginfo.php:12
+msgid "View Debug File"
+msgstr "Xem Tập tin Sửa lỗi"
+
+#: admin/settings/default/html/debuginfo.php:16
+#: admin/settings/default/html/debuginfo.php:18
+msgid "Your Server Configuration"
+msgstr "Cấu Hình Máy Chủ Của Bạn"
+
+#: admin/settings/default/html/image-upload.php:11
+msgid "Upload"
+msgstr "Tải lên"
+
+#: admin/settings/default/html/redirect.php:17
+msgid "WordPress Page"
+msgstr "Trang WordPress"
+
+#: admin/settings/default/html/user-agent-list.php:4
+#: admin/settings/default/html/user-agent-list.php:6
+msgid "WPtouch Pro will be active when any of the following user-agent combinations are matched"
+msgstr "WPtouch Pro sẽ hoạt động khi một trong những cặp người dùng-đại lý sau được khớp với nhau"
+
+#: core/admin-ajax.php:245
+msgid "Version %s"
+msgstr "Phiên bản %s"
+
+#: core/admin-ajax.php:251
+msgid "There is a temporary issue retrieving the change-log.  Please try again later."
+msgstr "Có lỗi tạm thời về việc truy xuất nhật ký thay đổi. Vui lòng thử lại sau."
+
+#: core/admin-menu.php:28
+msgid "Core Settings"
+msgstr "Các thiết lập cơ bản"
+
+#: core/admin-menu.php:29
+msgid "Themes"
+msgstr "Chủ đề"
+
+#: core/admin-menu.php:32
+msgid "Theme Options"
+msgstr "Tùy chọn chủ đề"
+
+#: core/admin-menu.php:34
+msgid "%s Theme Options"
+msgstr "Các tùy chọn chủ đề %s"
+
+#: core/admin-menu.php:40 core/admin-menu.php:42
+msgid "Menus"
+msgstr "Các trình đơn"
+
+#: core/admin-menu.php:47
+msgid "License"
+msgstr "Giấy phép"
+
+#: core/admin-render.php:67
+msgid "Save Changes"
+msgstr "Lưu các thay đổi"
+
+#: core/admin-render.php:68
+msgid "Preview Theme"
+msgstr "Xem trước chủ đề"
+
+#: core/admin-render.php:69
+msgid "Reset Settings"
+msgstr "Đặt Lại Cài Đặt"
+
+#: core/class-wptouch-pro.php:323
+msgid "Heads up!"
+msgstr "Thẳng tiến!"
+
+#: core/class-wptouch-pro.php:324
+msgid "Theme Preview requires Chrome or Safari."
+msgstr "Chế độ Xem trước chủ đề yêu cầu sử dụng trình duyệt Chrome hoặc Safari."
+
+#: core/class-wptouch-pro.php:325
+msgid "This will reset all WPtouch Pro settings.\nAre you sure?"
+msgstr "Việc này sẽ đặt lại tất cả cài đặt WPtouch Pro.\nBạn chắc chứ?"
+
+#: core/class-wptouch-pro.php:326
+msgid "This will reset all WPtouch Pro menu and icon settings.\nAre you sure?"
+msgstr "Việc này sẽ đặt lại mọi trình đơn và cài đặt biểu tượng của WPtouch Pro.\nBạn chắc chứ?"
+
+#: core/class-wptouch-pro.php:888 themes/foundation/root-functions.php:501
+msgid "Settings"
+msgstr "Thiết lập"
+
+#: core/class-wptouch-pro.php:969
+msgid "WPtouch Pro Changelog"
+msgstr "Nhật ký thay đổi của WPtouch Pro"
+
+#: core/class-wptouch-pro.php:1883
+msgid "Directory Problem"
+msgstr "Lỗi Đường Dẫn"
+
+#: core/class-wptouch-pro.php:1884
+msgid "One or more required directories could not be created"
+msgstr "Không thể tạo một hoặc nhiều các đường dẫn theo yêu cầu"
+
+#: core/globals.php:197
+msgid "smartphone"
+msgstr "điện thoại thông minh"
+
+#: core/globals.php:199
+msgid "tablet"
+msgstr "máy tính bảng"
+
+#: core/notifications.php:121
+msgid "License Missing"
+msgstr "Thiếu giấy phép"
+
+#: core/notifications.php:122
+msgid "This installation of WPtouch Pro is currently unlicensed."
+msgstr "Việc cài đặt WPtouch Pro hiện chưa được cấp phép."
+
+#: core/notifications.php:133
+msgid "WPtouch Pro %s"
+msgstr "WPtouch Pro %s"
+
+#: core/notifications.php:134
+msgid "A new version of WPtouch Pro is available."
+msgstr "Có sẵn phiên bản mới của WPtouch Pro."
+
+#: core/notifications.php:144
+msgid "WPtouch Pro 3 cannot co-exist with WPtouch 1.x. Disable it first in the WordPress Plugins settings."
+msgstr "WPtouch Pro 3 không thể cùng tồn tại với WPtouch 1.x. Tắt nó trước trong cài đặt các trình nhúng WordPress."
+
+#: core/notifications.php:154
+msgid "WPtouch Pro 3 cannot co-exist with WPtouch Pro 2.x. Disable it first in the WordPress Plugins settings."
+msgstr "WPtouch Pro 3 không thể cùng tồn tại với WPtouch Pro 2.x. Trước tiên hãy tắt nó trong mục cài đặt WordPress Plugins settings."
+
+#: core/notifications.php:165
+msgid "WPtouch Pro prefers pretty permalinks to be enabled within WordPress."
+msgstr "WPtouch Pro ưa thích các đường dẫn tương đối ổn định được bật sẵn trong WordPress."
+
+#: core/notifications.php:175
+msgid "WPtouch Pro will not work fully in safe mode."
+msgstr "WPtouch Pro sẽ không hoạt động đầy đủ ở chế độ an toàn."
+
+#: core/notifications.php:185 core/notifications.php:195
+#: core/notifications.php:205
+msgid "Extra configuration is required. The plugin must be configured to exclude the user agents that WPtouch Pro uses."
+msgstr "Cần có cấu hình bổ sung. Trình nhúng phải được tạo cấu hình để không bao gồm đại lý người dùng mà WPtouch Pro sử dụng."
+
+#: core/notifications.php:215
+msgid "Extra configuration is required. Add paths to your active WPtouch Pro theme CSS and Javascript files as files to ignore in WPMinify."
+msgstr "Cần cấu hình bổ sung. Thêm các đường dẫn đến CSS chủ đề WPtouch Pro đang hoạt động của bạn và tập tin Javascript như các tập tin để từ chối WPMinify."
+
+#: core/notifications.php:225
+msgid "This plugin may not work correctly in WPtouch Pro, and should be disabled in the Plugin Compatibility section."
+msgstr "Trình nhúng này có thể không hoạt động đúng cách trong WPtouch Pro, và nên được tắt đi trong mục Tính tương thích của trình nhúng."
+
+#: include/add-ons/wordtwit-pro.php:179
+#: themes/foundation/modules/twitter/twitter.php:35
+msgid "%d second ago"
+msgid_plural "%d seconds ago"
+msgstr[0] "%d giây trước"
+msgstr[1] "%d giây trước"
+
+#: include/add-ons/wordtwit-pro.php:182
+#: themes/foundation/modules/twitter/twitter.php:38
+msgid "%d minute ago"
+msgid_plural "%d minutes ago"
+msgstr[0] "%d phút trước"
+msgstr[1] "%d phút trước"
+
+#: include/add-ons/wordtwit-pro.php:185
+#: themes/foundation/modules/twitter/twitter.php:41
+msgid "%d hour ago"
+msgid_plural "%d hours ago"
+msgstr[0] "%d giờ trước"
+msgstr[1] "%d giờ trước"
+
+#: include/add-ons/wordtwit-pro.php:188
+#: themes/foundation/modules/twitter/twitter.php:44
+msgid "%d day ago"
+msgid_plural "%d days ago"
+msgstr[0] "%d ngày trước"
+msgstr[1] "%d ngày trước"
+
+#: include/html/desktop-switch.php:2
+msgid "Desktop Version"
+msgstr "Phiên bản máy để bàn"
+
+#: include/html/desktop-switch.php:2
+msgid "Switch To Mobile Version"
+msgstr "Chuyển đổi thành phiên bản di động"
+
+#: include/html/footer.php:2
+msgid "Powered by %s%s%s"
+msgstr "Hỗ trợ bởi %s%s%s"
+
+#: include/html/footer.php:3
+msgid "By %s"
+msgstr "Bởi %s"
+
+#: include/html/load-times.php:2
+msgid "%d queries in %0.1f ms"
+msgstr "%d truy vấn trong %0.1f phút"
+
+#: themes/classic-redux/default/header-bottom.php:37
+#: themes/classic-redux/default/header-bottom.php:53
+msgid "Categories"
+msgstr "Các danh mục"
+
+#: themes/classic-redux/default/header-bottom.php:41
+#: themes/classic-redux/default/header-bottom.php:60
+msgid "Tags"
+msgstr "Tag"
+
+#: themes/classic-redux/default/header-bottom.php:45
+#: themes/classic-redux/default/header-bottom.php:79
+msgid "Tweets"
+msgstr "Tweets"
+
+#: themes/classic-redux/default/header-bottom.php:48
+#: themes/classic-redux/default/header-bottom.php:70
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: themes/classic-redux/default/header-bottom.php:68
+msgid "Search this website"
+msgstr "Tìm kiếm trang web này"
+
+#: themes/classic-redux/default/header-bottom.php:82
+msgid "Follow %s on Twitter"
+msgstr "Theo dõi %s trên Twitter"
+
+#: themes/classic-redux/default/index.php:34
+#: themes/cms/default/header-bottom.php:47
+#: themes/foundation/default/index.php:32
+msgid "newer posts"
+msgstr "các bài đăng mới hơn"
+
+#: themes/classic-redux/default/index.php:34
+#: themes/cms/default/header-bottom.php:43
+#: themes/foundation/default/index.php:32
+msgid "older posts"
+msgstr "các bài đăng cũ hơn"
+
+#: themes/classic-redux/default/nav-bar.php:8
+msgid "previous post"
+msgstr "bài đăng trước"
+
+#: themes/classic-redux/default/nav-bar.php:14
+msgid "next post"
+msgstr "bài đăng tiếp theo"
+
+#: themes/classic-redux/default/post-loop.php:24
+msgid "by"
+msgstr "bởi"
+
+#: themes/classic-redux/default/post-loop.php:32
+#: themes/foundation/default/comments.php:15
+msgid "no responses"
+msgstr "không có phản hồi nào"
+
+#: themes/classic-redux/default/post-loop.php:32
+#: themes/foundation/default/comments.php:15
+msgid "1 response"
+msgstr "1 phản hồi"
+
+#: themes/classic-redux/default/post-loop.php:32
+#: themes/foundation/default/comments.php:15
+msgid "% responses"
+msgstr "% phản hồi"
+
+#: themes/classic-redux/default/post-loop.php:52
+msgid "Read This Post"
+msgstr "Đọc bài đăng này"
+
+#: themes/classic-redux/default/search.php:5
+#: themes/foundation/default/search.php:5
+msgid "You searched for \"%s\""
+msgstr "Bạn đã tìm kiếm \"%s\""
+
+#: themes/classic-redux/default/search.php:16
+#: themes/foundation/default/search.php:16
+msgid "%s results"
+msgstr "%s kết quả"
+
+#: themes/classic-redux/default/search.php:40
+#: themes/foundation/default/search.php:35
+msgid "No search results found"
+msgstr "Không tìm thấy kết quả tìm kiếm"
+
+#: themes/classic-redux/default/single.php:18
+msgid "%s at %s"
+msgstr "%s tại %s"
+
+#: themes/classic-redux/default/single.php:20
+msgid "Written by %s"
+msgstr "Được viết bởi %s"
+
+#: themes/classic-redux/root-functions.php:7
+#: themes/classic-redux/root-functions.php:196
+msgid "Tablets"
+msgstr "Máy tính bảng"
+
+#: themes/classic-redux/root-functions.php:61
+msgid "Header Menu"
+msgstr "Trình đơn Đầu trang"
+
+#: themes/classic-redux/root-functions.php:63 themes/cms/root-functions.php:103
+#: themes/cms/root-functions.php:112 themes/simple/root-functions.php:55
+#: themes/simple/root-functions.php:66
+msgid "Choose a menu"
+msgstr "Chọn một trình đơn"
+
+#: themes/classic-redux/root-functions.php:70 themes/cms/root-functions.php:118
+#: themes/simple/root-functions.php:73
+msgid "Header background"
+msgstr "Nền phụ đầu trang"
+
+#: themes/classic-redux/root-functions.php:71 themes/cms/root-functions.php:119
+#: themes/simple/root-functions.php:74
+msgid "Theme background"
+msgstr "Nền chủ đề"
+
+#: themes/classic-redux/root-functions.php:72 themes/cms/root-functions.php:120
+#: themes/simple/root-functions.php:75
+msgid "Links"
+msgstr "Đường dẫn"
+
+#: themes/classic-redux/root-functions.php:202
+msgid "Add tablet support"
+msgstr "Thêm hỗ trợ máy tính bảng"
+
+#: themes/classic-redux/root-functions.php:214
+msgid "Posts"
+msgstr "Các bài viết"
+
+#: themes/classic-redux/root-functions.php:220
+msgid "Post thumbnails"
+msgstr "Ảnh nhỏ của bài đăng"
+
+#: themes/classic-redux/root-functions.php:225
+msgid "No thumbnails"
+msgstr "Không có các ảnh nhỏ"
+
+#: themes/classic-redux/root-functions.php:226
+msgid "Blog listing only"
+msgstr "Chỉ danh sách blog"
+
+#: themes/classic-redux/root-functions.php:227
+msgid "Blog listing, single posts"
+msgstr "Danh sách blog, các bài viết đơn lẻ"
+
+#: themes/classic-redux/root-functions.php:228
+msgid "All (blog, single, search and archive)"
+msgstr "Tất cả (blog, bài viết đơn lẻ, tìm kiếm và lưu trữ)"
+
+#: themes/classic-redux/root-functions.php:234
+msgid "Show post date"
+msgstr "Hiện ngày đăng"
+
+#: themes/classic-redux/root-functions.php:242
+msgid "Show post author"
+msgstr "Hiển thị tác giả bài viết"
+
+#: themes/classic-redux/root-functions.php:250
+msgid "Show post categories and tags"
+msgstr "Hiển thị danh mục và tag bài của bài đăng"
+
+#: themes/classic-redux/root-functions.php:263
+msgid "Miscellaneous"
+msgstr "Các mục khác"
+
+#: themes/classic-redux/root-functions.php:269
+msgid "Drop-down button says \"Menu\""
+msgstr "Nút thả xuống ám chủ \"Trình đơn\""
+
+#: themes/classic-redux/root-functions.php:277
+msgid "Use infinite scrolling for blog"
+msgstr "Sử dụng chức năng cuộn vô hạn dành cho blog"
+
+#: themes/classic-redux/root-functions.php:285
+msgid "Use rounded corners"
+msgstr "Sử dụng các góc tròn"
+
+#: themes/classic-redux/root-functions.php:297
+msgid "Menu Tab Bar"
+msgstr "Thanh Tab trình đơn"
+
+#: themes/classic-redux/root-functions.php:303
+msgid "Show tab bar"
+msgstr "Hiển thanh tab"
+
+#: themes/classic-redux/root-functions.php:311
+msgid "Tab-bar shows categories or tags"
+msgstr "Thanh Tab hiển thị các danh mục hoặc tag"
+
+#: themes/classic-redux/root-functions.php:316
+msgid "Categories and tags"
+msgstr "Các danh mục và tag"
+
+#: themes/classic-redux/root-functions.php:317
+msgid "Categories only"
+msgstr "Chỉ các danh mục"
+
+#: themes/classic-redux/root-functions.php:318
+msgid "Tags only"
+msgstr "Chỉ Tag"
+
+#: themes/classic-redux/root-functions.php:319
+msgid "No categories or tags"
+msgstr "Không có các danh mục hoặc tag"
+
+#: themes/classic-redux/root-functions.php:325
+msgid "Max categories / tags"
+msgstr "Danh mục/tag tối đa"
+
+#: themes/classic-redux/root-functions.php:343
+#: themes/cms/root-functions.php:212 themes/simple/root-functions.php:291
+msgid "CSS Effects"
+msgstr "Các hiệu ứng CSS"
+
+#: themes/classic-redux/root-functions.php:349
+#: themes/cms/root-functions.php:218
+msgid "Add a noise effect to the header and theme background"
+msgstr "Thêm hiệu ứng nhiễu vào đầu trang và nền chủ đề"
+
+#: themes/classic-redux/root-functions.php:350
+#: themes/cms/root-functions.php:219 themes/simple/root-functions.php:298
+msgid "Will apply the effect overtop of any background image you upload."
+msgstr "Sẽ áp dụng hiệu ứng vào phần trên cùng của bất cứ ảnh nền nào mà bạn tải lên."
+
+#: themes/cms/default/header-bottom.php:14
+msgid "menu"
+msgstr "trình đơn"
+
+#: themes/cms/default/header-bottom.php:25
+#: themes/simple/default/footer-top.php:7
+msgid "search this website"
+msgstr "tìm kiếm trang web này"
+
+#: themes/cms/default/header-bottom.php:26
+#: themes/simple/default/footer-top.php:9
+msgid "search"
+msgstr "tìm kiếm"
+
+#: themes/cms/root-functions.php:43
+msgid "Alt Menu"
+msgstr "Trình đơn Alt"
+
+#: themes/cms/root-functions.php:101
+msgid "Main Menu"
+msgstr "Trình đơn Chính"
+
+#: themes/cms/root-functions.php:110
+msgid "Alternate Menu"
+msgstr "Trình đơn thay thế"
+
+#: themes/cms/root-functions.php:156
+msgid "Category Slider"
+msgstr "Thanh trượt danh mục"
+
+#: themes/cms/root-functions.php:162
+msgid "Enable category slider"
+msgstr "Bật thanh trượt danh mục"
+
+#: themes/cms/root-functions.php:175 themes/simple/root-functions.php:272
+msgid "Tiled Background Image"
+msgstr "Ảnh nền đã được đặt tiêu đề"
+
+#: themes/cms/root-functions.php:181 themes/simple/root-functions.php:278
+msgid "(Scaled for retina displays)"
+msgstr "(Đã chia tỷ lệ cho màn hình retina)"
+
+#: themes/cms/root-functions.php:193
+msgid "Alternate Menu Title"
+msgstr "Tiêu đề Trình đơn Xen kẽ"
+
+#: themes/cms/root-functions.php:199
+msgid "Alternate menu title (if used)"
+msgstr "Tiêu đề trình đơn xen kẽ (nếu sử dụng)"
+
+#: themes/cms/root-functions.php:200
+msgid "If you use a second menu in CMS, this text will be used for the drop-down button title."
+msgstr "Nếu bạn đang sử dụng trình đơn phụ trong CMS, văn bản này sẽ được sử dụng cho tiêu đề nút thả xuống."
+
+#: themes/cms/root-functions.php:230
+msgid "Static Front Page"
+msgstr "Trang Trước Tĩnh"
+
+#: themes/cms/root-functions.php:236
+msgid "Static front page alternate content"
+msgstr "Nội dung xen kẽ trang trước tĩnh"
+
+#: themes/cms/root-functions.php:237
+msgid "Shows after the featured slider (if enabled), and replaces your Static Front Page content. HTML allowed."
+msgstr "Hiển thị sau thanh trượt tính năng (nếu được bật), và thay thế nội dung Trang Trước Tĩnh. Cho phép HTML."
+
+#: themes/foundation/default/404.php:6
+msgid "404 Not Found"
+msgstr "404 Không tìm thấy"
+
+#: themes/foundation/default/404.php:8
+msgid "The post or page you requested is no longer available."
+msgstr "Bài đăng hoặc trang bạn đã yêu cầu không còn tồn tại."
+
+#: themes/foundation/default/attachment.php:43
+msgid "&laquo; previous in gallery"
+msgstr "&laquo; trước trong thư viện"
+
+#: themes/foundation/default/attachment.php:45
+msgid "next in gallery &raquo;"
+msgstr "tiếp theo trong thư mục &raquo;"
+
+#: themes/foundation/default/comments.php:24
+#: themes/foundation/default/comments.php:30
+msgid "Load More Comments&hellip;"
+msgstr "Tải thêm các bình luận&hellip;"
+
+#: themes/foundation/default/comments.php:43
+msgid "comments are closed"
+msgstr "các bình luận đã đóng"
+
+#: themes/foundation/default/comments.php:52
+msgid "Cancel"
+msgstr "Hủy"
+
+#: themes/foundation/default/comments.php:55
+msgid "Leave a Reply"
+msgstr "Gửi hồi đáp"
+
+#: themes/foundation/default/comments.php:55
+msgid "Leave a Reply to %s"
+msgstr "Gửi hồi đáp đến %s"
+
+#: themes/foundation/default/comments.php:58
+msgid "You must be %slogged in%s to post a comment."
+msgstr "Bạn phải được %sđăng nhập vào%s để đăng bình luận."
+
+#: themes/foundation/default/comments.php:68
+msgid "Logged in as"
+msgstr "Đã đăng nhập bằng tên"
+
+#: themes/foundation/default/comments.php:68
+msgid "Log out"
+msgstr "Đăng xuất"
+
+#: themes/foundation/default/comments.php:72
+msgid "Name"
+msgstr "Tên"
+
+#: themes/foundation/default/comments.php:74
+#: themes/foundation/modules/social-links/social-links.php:62
+msgid "E-Mail"
+msgstr "E-mail"
+
+#: themes/foundation/default/comments.php:76
+msgid "Website"
+msgstr "Trang web"
+
+#: themes/foundation/default/comments.php:82
+msgid "Publish"
+msgstr "Xuất bản"
+
+#: themes/foundation/default/page.php:22
+#: themes/foundation/root-functions.php:336
+#: themes/foundation/root-functions.php:1475
+msgid "Pages"
+msgstr "Trang"
+
+#: themes/foundation/default/single.php:13
+msgid "By"
+msgstr "Bởi"
+
+#: themes/foundation/default/switch-link.php:8
+msgid "mobile"
+msgstr "di động"
+
+#: themes/foundation/default/switch-link.php:9
+msgid "desktop"
+msgstr "màn hình chính"
+
+#: themes/foundation/modules/base/base.php:69
+msgid "Loading"
+msgstr "Đang tải"
+
+#: themes/foundation/modules/base/preview-bar.php:2
+msgid "Theme Preview"
+msgstr "Xem trước Chủ đề"
+
+#: themes/foundation/modules/base/preview-bar.php:3
+msgid "Reload"
+msgstr "Tải lại"
+
+#: themes/foundation/modules/custom-posts/custom-posts.php:75
+msgid "Custom Post Support"
+msgstr "Tùy chỉnh hỗ trợ đăng bài"
+
+#: themes/foundation/modules/custom-posts/custom-posts.php:81
+msgid "Enable custom post-type support"
+msgstr "Bật hỗ trợ kiểu đăng bài tùy chỉnh"
+
+#: themes/foundation/modules/custom-posts/custom-posts.php:89
+msgid "Show custom post taxonomy"
+msgstr "Hiển thị cách phân loại bài đăng tùy chỉnh"
+
+#: themes/foundation/modules/custom-posts/custom-posts.php:101
+msgid "Custom Post Types"
+msgstr "Tùy chỉnh các kiểu bài đăng"
+
+#: themes/foundation/modules/google-fonts/google-fonts.php:10
+msgid "Browser Fonts"
+msgstr "Phông chữ trình duyệt"
+
+#: themes/foundation/modules/google-fonts/google-fonts.php:18
+msgid "Typography"
+msgstr "Phông chữ nghệ thuật"
+
+#: themes/foundation/modules/google-fonts/google-fonts.php:24
+msgid "Font style"
+msgstr "Kiểu Font"
+
+#: themes/foundation/modules/google-fonts/google-fonts.php:25
+msgid "Choose a Google font pairing designed for this theme, or default browser fonts."
+msgstr "Chọn sự ghép cặp phông chữ của Google được thiết kế cho chủ đề này, hoặc các phông chữ trình duyệt mặc định."
+
+#: themes/foundation/modules/sharing/sharing-html.php:2
+msgid "Share"
+msgstr "Chia sẻ"
+
+#: themes/foundation/modules/sharing/sharing-html.php:3
+msgid "Tweet"
+msgstr "Tweet"
+
+#: themes/foundation/modules/sharing/sharing-html.php:5
+msgid "Mail"
+msgstr "Mail"
+
+#: themes/foundation/modules/sharing/sharing.php:75
+msgid "Sharing"
+msgstr "Đang chia sẻ"
+
+#: themes/foundation/modules/sharing/sharing.php:81
+msgid "Show sharing links"
+msgstr "Hiện các đường dẫn chia sẻ"
+
+#: themes/foundation/modules/sharing/sharing.php:82
+msgid "Will show Facebook, Twitter, Google+ and Email buttons on single posts."
+msgstr "Sẽ hiển thị các nút Facebook, Twitter, Google+ và Email trên các bài viết đơn lẻ."
+
+#: themes/foundation/modules/sharing/sharing.php:89
+msgid "Sharing links location"
+msgstr "Vị trí các đường dẫn chia sẻ"
+
+#: themes/foundation/modules/sharing/sharing.php:94
+msgid "Above post content"
+msgstr "Phía trên nội dung bài đăng"
+
+#: themes/foundation/modules/sharing/sharing.php:95
+msgid "Below post content"
+msgstr "Phía dưới nội dung bài đăng"
+
+#: themes/foundation/modules/sharing/sharing.php:101
+msgid "Color scheme"
+msgstr "Chủ đề màu sắc"
+
+#: themes/foundation/modules/sharing/sharing.php:106
+msgid "Theme colors"
+msgstr "Các màu sắc của chủ đề"
+
+#: themes/foundation/modules/sharing/sharing.php:107
+msgid "Social network colors"
+msgstr "Các màu của mạng xã hội"
+
+#: themes/foundation/modules/social-links/social-links.php:8
+msgid "Footer Social Links"
+msgstr "Các đường dẫn xã hội ở chân trang"
+
+#: themes/foundation/modules/social-links/social-links.php:15
+msgid "Full URL to your Facebook page"
+msgstr "URL đầy đủ đến trang Facebook của bạn"
+
+#: themes/foundation/modules/social-links/social-links.php:23
+msgid "Full URL to your Twitter profile"
+msgstr "URL đầy đủ đến hồ sơ Twitter của bạn"
+
+#: themes/foundation/modules/social-links/social-links.php:31
+msgid "Full URL to your Google+ profile"
+msgstr "URL đầy đủ đến hồ sơ Google+ của bạn"
+
+#: themes/foundation/modules/social-links/social-links.php:39
+msgid "Full URL to your Pinterest page"
+msgstr "URL đầy đủ đến trang Pinterest của bạn"
+
+#: themes/foundation/modules/social-links/social-links.php:47
+msgid "Full URL to your Vimeo page"
+msgstr "URL đầy đủ đến trang Vimeo của bạn page"
+
+#: themes/foundation/modules/social-links/social-links.php:54
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: themes/foundation/modules/social-links/social-links.php:55
+msgid "Full URL to your LinkedIn profile"
+msgstr "URL đầy đủ đến hồ sơ LinkedIn của bạn"
+
+#: themes/foundation/modules/social-links/social-links.php:63
+msgid "E-Mail address"
+msgstr "Địa chỉ e-mail"
+
+#: themes/foundation/modules/social-links/social-links.php:71
+msgid "Full URL to your RSS feed"
+msgstr "URL đầy đủ đến nguồn cấp RSS của bạn"
+
+#: themes/foundation/modules/webapp/webapp.php:108
+msgid "External link— open it in the browser?"
+msgstr "Đường dẫn ngoại vi - mở nó trên trình duyệt?"
+
+#: themes/foundation/modules/webapp/webapp.php:109
+msgid "File link— Do you want to open it in the browser?"
+msgstr "Đường dẫn tập tin - Bạn có muốn mở nó trong trình duyệt?"
+
+#: themes/foundation/root-functions.php:11
+msgid "Branding"
+msgstr "Nhãn hiệu"
+
+#: themes/foundation/root-functions.php:12
+msgid "Media Handling"
+msgstr "Điều khiển đa phương tiện"
+
+#: themes/foundation/root-functions.php:13
+msgid "Web-App Mode"
+msgstr "Chế độ Web-Ứng dụng"
+
+#: themes/foundation/root-functions.php:14
+msgid "Homescreen Icons"
+msgstr "Các biểu tượng màn hình chính"
+
+#: themes/foundation/root-functions.php:15
+msgid "Advertising"
+msgstr "Quảng cáo"
+
+#: themes/foundation/root-functions.php:16
+msgid "Custom Content"
+msgstr "Tùy chỉnh Nội dung"
+
+#: themes/foundation/root-functions.php:96
+msgid "Install this Web-App on your [device]: tap [icon] then \"Add to Home Screen\""
+msgstr "Cài đặt chức năng Web-Ứng dụng trên [device] của bạn: chạm [icon] rồi nhấn \"Thêm vào Màn hình chính\""
+
+#: themes/foundation/root-functions.php:287
+msgid "Number of posts in post listings"
+msgstr "Số lượng bài đăng trong các danh sách bài đăng"
+
+#: themes/foundation/root-functions.php:288
+msgid "Overrides the WordPress Reading settings for \"Blog pages show at most\""
+msgstr "Ghi đè cài đặt chế độ đọc WordPress cho \"Các trang Blog hiển thị nhiều nhất\""
+
+#: themes/foundation/root-functions.php:295
+msgid "Excluded categories"
+msgstr "Các danh mục bị loại trừ"
+
+#: themes/foundation/root-functions.php:296
+msgid "Comma separated by category name"
+msgstr "Tên danh mục được chia tách bằng dấu phẩy"
+
+#: themes/foundation/root-functions.php:303
+msgid "Excluded tags"
+msgstr "Các tag bị loại trừ"
+
+#: themes/foundation/root-functions.php:304
+msgid "Comma separated by tag name"
+msgstr "Tên tag được chia tách bằng dấu phẩy"
+
+#: themes/foundation/root-functions.php:314
+msgid "Blog"
+msgstr "Blog"
+
+#: themes/foundation/root-functions.php:325
+msgid "Show comments on pages"
+msgstr "Hiển thị các bình luận trên các trang"
+
+#: themes/foundation/root-functions.php:326
+msgid "Overrides the WordPress settings for showing comments on pages."
+msgstr "Ghi đè cài đặt của WordPress để hiển thị các bình luận trên các trang."
+
+#: themes/foundation/root-functions.php:345
+msgid "Disabled"
+msgstr "Đã vô hiệu hóa"
+
+#: themes/foundation/root-functions.php:360
+msgid "Twitter account to use for Tweet display"
+msgstr "Tài khoản Twitter để sử dụng cho màn hình Tweet"
+
+#: themes/foundation/root-functions.php:376
+msgid "Video Handling"
+msgstr "Xử lý video"
+
+#: themes/foundation/root-functions.php:388
+msgid "CSS only (HTML5 videos)"
+msgstr "Chỉ CSS (các video HTML5)"
+
+#: themes/foundation/root-functions.php:389
+msgid "FitVids Method"
+msgstr "Phương thức FitVids"
+
+#: themes/foundation/root-functions.php:390
+msgid "Fluid-Width Method"
+msgstr "Phương thức Fluid-Width"
+
+#: themes/foundation/root-functions.php:402
+msgid "Featured Slider"
+msgstr "Con trượt độc đáo"
+
+#: themes/foundation/root-functions.php:408
+msgid "Enable featured slider"
+msgstr "Bật con trượt độc đáo"
+
+#: themes/foundation/root-functions.php:409
+msgid "Requires at least 2 entries to contain featured images"
+msgstr "Yêu cầu ít nhất 2 mục nhập để chứa các hình ảnh độc đáo"
+
+#: themes/foundation/root-functions.php:416
+msgid "Continuously slide"
+msgstr "Trượt liên tục"
+
+#: themes/foundation/root-functions.php:424
+msgid "Grayscale images (CSS 3 effect)"
+msgstr "Các hình ảnh thuộc thang màu xám (hiệu ứng CSS 3)"
+
+#: themes/foundation/root-functions.php:425
+msgid "Featured slider images will be in grayscale for devices that support CSS filters."
+msgstr "Các hình ảnh con trượt độc đáo sẽ ở trong thang màu xám dành cho các thiết bị hỗ trợ bộ lọc CSS."
+
+#: themes/foundation/root-functions.php:432
+msgid "Automatically slide"
+msgstr "Trượt tự động"
+
+#: themes/foundation/root-functions.php:440
+msgid "Slide transition speed"
+msgstr "Tốc độ chuyển tiếp trượt"
+
+#: themes/foundation/root-functions.php:445
+msgid "Slow"
+msgstr "Chậm"
+
+#: themes/foundation/root-functions.php:446
+msgid "Normal"
+msgstr "Bình thường"
+
+#: themes/foundation/root-functions.php:447
+msgid "Fast"
+msgstr "Nhanh"
+
+#: themes/foundation/root-functions.php:458
+msgid "Show latest posts"
+msgstr "Hiển thị các bài đăng mới nhất"
+
+#: themes/foundation/root-functions.php:459
+msgid "Show posts from a specific tag"
+msgstr "Hiển thị các bài đăng từ một đánh dấu cụ thể"
+
+#: themes/foundation/root-functions.php:460
+msgid "Show posts from a specific category"
+msgstr "Hiển thị các bài đăng từ một danh mục cụ thể"
+
+#: themes/foundation/root-functions.php:461
+msgid "Show only specific posts or pages"
+msgstr "Chỉ hiện các bài đăng hoặc trang cụ thể"
+
+#: themes/foundation/root-functions.php:467
+msgid "Only this tag"
+msgstr "Chỉ mục đánh dấu này"
+
+#: themes/foundation/root-functions.php:476
+msgid "Only this category"
+msgstr "Chỉ danh mục này"
+
+#: themes/foundation/root-functions.php:485
+msgid "Comma-separated list of post/page IDs"
+msgstr "Danh sách được chia tách bằng dấu phẩy các ID bài đăng/trang"
+
+#: themes/foundation/root-functions.php:504
+msgid "Enable Web-App Mode"
+msgstr "Bật chế độ Web-Ứng dụng"
+
+#: themes/foundation/root-functions.php:508
+msgid "Enable persistence"
+msgstr "Bật chế độ ổn định"
+
+#: themes/foundation/root-functions.php:509
+msgid "WPtouch loads the last visited page or post for visitors in Web-App Mode."
+msgstr "WPtouch tải trang hoặc bài đăng được truy cập gần nhất cho khách truy cập ở chế độ Web-Ứng dụng."
+
+#: themes/foundation/root-functions.php:516
+msgid "URLs to ignore in Web-App Mode"
+msgstr "URL để bỏ qua trong chế độ Web-Ứng dụng"
+
+#: themes/foundation/root-functions.php:536
+msgid "Notice Message"
+msgstr "Tin nhắn thông báo"
+
+#: themes/foundation/root-functions.php:539
+msgid "Show a notice message for iPhone, iPod touch & iPad visitors about my Web-App"
+msgstr "Hiển thị tin nhắn thông báo cho các khách truy cập bằng iPhone, iPod touch & iPad về chế độ Web-Ứng dụng của tôi"
+
+#: themes/foundation/root-functions.php:539
+msgid "WPtouch shows a notice bubble on 1st visit letting users know about your Web-App enabled website on iOS devices."
+msgstr "WPtouch hiển thị thông báo nổi lên trong lần truy cập đầu nhằm báo cho người dùng biết về trang web đã bật chế độ Web-Ứng dụng của bạn trên các thiết bị iOS."
+
+#: themes/foundation/root-functions.php:540
+msgid "Notice message contents"
+msgstr "Nội dung tin nhắn thông báo"
+
+#: themes/foundation/root-functions.php:540
+msgid "[device] and [icon] are dynamic and used to determine the device and iOS version. Do not remove these from your message."
+msgstr "[device] và [icon] mang tính linh hoạt và được sử dụng để quyết định thiết bị và phiên bản iOS. Không xóa những thứ này khỏi tin nhắn của bạn."
+
+#: themes/foundation/root-functions.php:544
+msgid "the notice message will be shown again for visitors"
+msgstr "tin nhắn thông báo sẽ được hiển thị lại cho những người truy cập"
+
+#: themes/foundation/root-functions.php:549
+msgid "1 day until"
+msgstr "1 ngày cho đến"
+
+#: themes/foundation/root-functions.php:550
+msgid "7 days until"
+msgstr "7 ngày cho đến"
+
+#: themes/foundation/root-functions.php:551
+msgid "1 month until"
+msgstr "1 tháng cho đến"
+
+#: themes/foundation/root-functions.php:552
+msgid "Every time"
+msgstr "Mọi lần"
+
+#: themes/foundation/root-functions.php:563
+msgid "iPhone Startup Screen"
+msgstr "Màn hình khởi động iPhone"
+
+#: themes/foundation/root-functions.php:569
+#: themes/foundation/root-functions.php:587
+#: themes/foundation/root-functions.php:605
+#: themes/foundation/root-functions.php:624
+#: themes/foundation/root-functions.php:632
+#: themes/foundation/root-functions.php:650
+#: themes/foundation/root-functions.php:658
+msgid "%d by %d pixels (PNG)"
+msgstr "%d trên %d điểm ảnh(PNG)"
+
+#: themes/foundation/root-functions.php:581
+msgid "Retina iPhone Startup Screen"
+msgstr "Màn hình Khởi động iPhone Retina"
+
+#: themes/foundation/root-functions.php:599
+msgid "iPhone 5 Startup Screen"
+msgstr "Màn hình Khởi động iPhone 5"
+
+#: themes/foundation/root-functions.php:618
+msgid "iPad Mini and iPad Startup Screens"
+msgstr "Màn hình khởi động iPad Mini và iPad"
+
+#: themes/foundation/root-functions.php:644
+msgid "Retina iPad Startup Screens"
+msgstr "Màn hình khởi động iPad Retina"
+
+#: themes/foundation/root-functions.php:676
+msgid "Options"
+msgstr "Tùy chọn"
+
+#: themes/foundation/root-functions.php:682
+msgid "Icon title"
+msgstr "Tiêu đề biểu tượng"
+
+#: themes/foundation/root-functions.php:683
+msgid "When visitors bookmark your website, this will be the title shown."
+msgstr "Khi người truy cập tạo dấu trang trang web của bạn, đây chính là tiêu đề được hiển thị."
+
+#: themes/foundation/root-functions.php:690
+msgid "Add glossy icon effect to uploaded icons"
+msgstr "Thêm hiệu ứng biểu tượng bóng vào các biểu tượng đã tải lên"
+
+#: themes/foundation/root-functions.php:691
+msgid "A glossy effect will automatically be applied to icons for iOS devices."
+msgstr "Hiệu ứng tạo bóng sẽ tự động được áp dụng cho các biểu tượng cho các thiết bị iOS."
+
+#: themes/foundation/root-functions.php:702
+msgid "iPhone/Android"
+msgstr "iPhone/Android"
+
+#: themes/foundation/root-functions.php:708
+#: themes/foundation/root-functions.php:726
+#: themes/foundation/root-functions.php:745
+#: themes/foundation/root-functions.php:763
+msgid "%d by %d pixels"
+msgstr "%d trên %d điểm ảnh"
+
+#: themes/foundation/root-functions.php:720
+msgid "iPhone/Android Retina"
+msgstr "iPhone/Android Retina"
+
+#: themes/foundation/root-functions.php:739
+msgid "iPad"
+msgstr "iPad"
+
+#: themes/foundation/root-functions.php:757
+msgid "iPad Retina"
+msgstr "iPad Retina"
+
+#: themes/foundation/root-functions.php:776
+msgid "Theme Footer"
+msgstr "Chân trang chủ đề"
+
+#: themes/foundation/root-functions.php:779
+msgid "Custom footer content (HTML is allowed)"
+msgstr "Tùy chỉnh nội dung chân trang (HTML được cho phép)"
+
+#: themes/foundation/root-functions.php:779
+msgid "You can add custom footer content that will be displayed below the switch link."
+msgstr "Bạn có thể tùy chỉnh nội dung chân trang sẽ được hiển thị dưới đường dẫn chuyển đổi."
+
+#: themes/foundation/root-functions.php:790
+msgid "Service"
+msgstr "Dịch vụ"
+
+#: themes/foundation/root-functions.php:796
+msgid "Choose a service"
+msgstr "Chọn một dịch vụ"
+
+#: themes/foundation/root-functions.php:802
+msgid "Google Adsense"
+msgstr "Google Adsense"
+
+#: themes/foundation/root-functions.php:803
+msgid "Custom"
+msgstr "Tùy chỉnh"
+
+#: themes/foundation/root-functions.php:813
+msgid "Google AdSense"
+msgstr "Google AdSense"
+
+#: themes/foundation/root-functions.php:816
+msgid "Publisher ID"
+msgstr "ID nhà xuất bản"
+
+#: themes/foundation/root-functions.php:817
+msgid "Slot ID"
+msgstr "ID khe"
+
+#: themes/foundation/root-functions.php:825
+msgid "Custom Ads"
+msgstr "Tùy chỉnh Quảng cáo"
+
+#: themes/foundation/root-functions.php:828
+msgid "Mobile advertising script"
+msgstr "Kịch bản quảng cáo di động"
+
+#: themes/foundation/root-functions.php:837
+msgid "Ad Presentation"
+msgstr "Thuyết trình quảng cáo"
+
+#: themes/foundation/root-functions.php:843
+msgid "Theme location"
+msgstr "Vị trí của chủ đề"
+
+#: themes/foundation/root-functions.php:848
+msgid "In the header"
+msgstr "Trong đầu trang"
+
+#: themes/foundation/root-functions.php:849
+msgid "Above the page content"
+msgstr "Phía trên nội dung trang"
+
+#: themes/foundation/root-functions.php:850
+msgid "Below the page content"
+msgstr "Phía dưới nội dung trang"
+
+#: themes/foundation/root-functions.php:860
+msgid "Active Pages"
+msgstr "Các trang đang hoạt động"
+
+#: themes/foundation/root-functions.php:863
+msgid "Blog listings"
+msgstr "Các danh sách blog"
+
+#: themes/foundation/root-functions.php:864
+msgid "Single posts"
+msgstr "Các bài đăng đơn lẻ"
+
+#: themes/foundation/root-functions.php:865
+msgid "Static pages"
+msgstr "Các trang tĩnh"
+
+#: themes/foundation/root-functions.php:866
+msgid "Taxonomy"
+msgstr "Nguyên tắc phân loại"
+
+#: themes/foundation/root-functions.php:867
+msgid "Search results"
+msgstr "Kết quả tìm kiếm"
+
+#: themes/foundation/root-functions.php:894
+msgid "Theme Colors"
+msgstr "Các màu sắc chủ đề"
+
+#: themes/foundation/root-functions.php:904
+msgid "Site Logo"
+msgstr "Biểu trưng của Trang"
+
+#: themes/foundation/root-functions.php:910
+msgid "(Scaled by themes to fit logo areas as needed)"
+msgstr "(Các chủ đề được chia tỷ lệ để phù hợp với khu vực biểu trưng khi cần)"
+
+#: themes/foundation/root-functions.php:923
+msgid "Browser Behaviour"
+msgstr "Chế độ trình duyệt"
+
+#: themes/foundation/root-functions.php:929
+msgid "Hide browser address-bar on page load"
+msgstr "Ẩn thanh địa chỉ trình duyệt khi tải trang"
+
+#: themes/foundation/root-functions.php:930
+msgid "Hides the browser address bar so that more of the mobile theme interface is shown."
+msgstr "Ẩn thanh dịa chỉ trình duyệt để hiển thị nhiều hơn giao diện chủ đề di động."
+
+#: themes/foundation/root-functions.php:942
+msgid "Smart App Banner"
+msgstr "Biểu ngữ ứng dụng thông minh"
+
+#: themes/foundation/root-functions.php:948
+msgid "Enter your app's %sApp Store ID%s"
+msgstr "Nhập %sID kho ứng dụng %s của ứng dụng của bạn"
+
+#: themes/foundation/root-functions.php:949
+msgid "Your app's unique identifier. Find your ID from the iTunes Link Maker: Search for your app. In the link it provides, your app ID is the nine-digit number in between id and ?mt. For example Angry Birds's ID is 343200656."
+msgstr "Ứng dụng của bạn là trình định danh độc nhất. Tìm ID của bạn từ iTunes Link Maker: Tìm kiếm ứng dụng của bạn. Trong đường dẫn nó cung cấp, ID ứng dụng của bạn là một số có 9 chữ số nằm giữa id và ?mt. Ví dụ ID của trò Angry Birds là 343200656."
+
+#: themes/foundation/root-functions.php:1303
+msgid "search results for '%s'"
+msgstr "các kết quả tìm kiếm cho '%s'"
+
+#: themes/foundation/root-functions.php:1305
+msgid "%sCategories &rsaquo;%s %s"
+msgstr "%sCác danh mục &rsaquo;%s %s"
+
+#: themes/foundation/root-functions.php:1307
+msgid "Tags &rsaquo; %s"
+msgstr "Tags &rsaquo; %s"
+
+#: themes/foundation/root-functions.php:1309
+#: themes/foundation/root-functions.php:1311
+#: themes/foundation/root-functions.php:1313
+msgid "Archives &rsaquo; %s"
+msgstr "Lưu trữ &rsaquo; %s"
+
+#: themes/foundation/root-functions.php:1328
+msgid "Load more search results"
+msgstr "Tải thêm từ các kết quả tìm kiếm"
+
+#: themes/foundation/root-functions.php:1330
+msgid "Load more from this category"
+msgstr "Tải thêm từ danh mục này"
+
+#: themes/foundation/root-functions.php:1332
+msgid "Load more tagged like this"
+msgstr "Tải thêm các bài được tag như bài này"
+
+#: themes/foundation/root-functions.php:1334
+msgid "Load more from this day"
+msgstr "Tải thêm từ ngày này"
+
+#: themes/foundation/root-functions.php:1336
+msgid "Load more from this month"
+msgstr "Tải thêm từ tháng này"
+
+#: themes/foundation/root-functions.php:1338
+msgid "Load more from this year"
+msgstr "Tải thêm từ năm nay"
+
+#: themes/foundation/root-functions.php:1340
+msgid "Load more in this section"
+msgstr "Tải thêm trong phần này"
+
+#: themes/foundation/root-functions.php:1342
+msgid "Load more entries"
+msgstr "Tải thêm các mục nhập"
+
+#: themes/foundation/root-functions.php:1424
+msgid "Post"
+msgstr "Đăng"
+
+#: themes/foundation/root-functions.php:1426
+msgid "Page"
+msgstr "Trang"
+
+#: themes/simple/default/front-page.php:14
+msgid "Call Us"
+msgstr "Gọi chúng tôi"
+
+#: themes/simple/default/front-page.php:21
+msgid "Our Location"
+msgstr "Vị trí của chúng tôi"
+
+#: themes/simple/default/header-bottom.php:11
+msgid "Toggle Menu"
+msgstr "Trình đơn Toggle"
+
+#: themes/simple/root-functions.php:53
+msgid "Site Menu (Pulldown)"
+msgstr "Trình đơn Trang (Kéo xuống)"
+
+#: themes/simple/root-functions.php:56
+msgid "Pull-down menu at top of pages"
+msgstr "Trình đơn kéo xuống ở đỉnh các trang"
+
+#: themes/simple/root-functions.php:64
+msgid "Front Page Menu"
+msgstr "Trình đơn Trang trước"
+
+#: themes/simple/root-functions.php:67
+msgid "Displayed below front page menu and content"
+msgstr "Hiện trình đơn trang trước bên dưới và nội dung"
+
+#: themes/simple/root-functions.php:177
+msgid "Homepage Call Us"
+msgstr "Trang chủ Gọi chúng tôi"
+
+#: themes/simple/root-functions.php:183
+msgid "Phone number"
+msgstr "Số điện thoại"
+
+#: themes/simple/root-functions.php:184
+msgid "Enter a phone number and a homepage menu item for 'call us' will be shown."
+msgstr "Nhập một số điện thoại và một mục trình đơn trang chủ để hiển thị 'gọi chúng tôi'"
+
+#: themes/simple/root-functions.php:196
+msgid "Homepage Location"
+msgstr "Vị trí trang chủ"
+
+#: themes/simple/root-functions.php:202
+msgid "Map address"
+msgstr "Địa chỉ bản đồ"
+
+#: themes/simple/root-functions.php:203
+msgid "Enter an address and a homepage menu item for 'Our Location' will be shown."
+msgstr "Nhập một địa chỉ và một mục trình đơn trang chủ cho 'Địa điểm của chúng tôi' sẽ được hiển thị."
+
+#: themes/simple/root-functions.php:215
+msgid "Front Page Content"
+msgstr "Nội dung trang trước"
+
+#: themes/simple/root-functions.php:221
+msgid "Front page alternate content"
+msgstr "Nội dung xen kẽ trang trước"
+
+#: themes/simple/root-functions.php:222
+msgid "Shows above the front page menu (if enabled), HTML allowed."
+msgstr "Hiển thị phía trên trình đơn trang trước (nếu được bật), cho phép HTML."
+
+#: themes/simple/root-functions.php:234
+msgid "3D Menu"
+msgstr "Trình đơn 3D"
+
+#: themes/simple/root-functions.php:240
+msgid "Use a 3D slide menu on supported devices"
+msgstr "Sử dụng trình đơn trượt 3D trên các thiết bị được hỗ trợ"
+
+#: themes/simple/root-functions.php:253
+msgid "Blog Search"
+msgstr "Tìm kiếm Blog"
+
+#: themes/simple/root-functions.php:259
+msgid "Enable search on blog pages"
+msgstr "Bật chức năng tìm kiến trên các trang blog"
+
+#: themes/simple/root-functions.php:297
+msgid "Add a light noise effect to the drop-down menu and theme background"
+msgstr "Thêm hiệu ứng nhiễu ánh sáng vào trình đơn thả xuống và hình nền chủ đề"
+
+#. Plugin Name of the plugin/theme
+msgid "WPtouch Pro"
+msgstr "WPtouch Pro"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.bravenewcode.com/product/wptouch-pro/"
+msgstr "http://www.bravenewcode.com/product/wptouch-pro/"
+
+#. Description of the plugin/theme
+msgid "The easy way to create great mobile experiences with your WordPress website."
+msgstr "Cách dễ nhất để tạo trải nghiệm di động tuyệt vời bằng trang web WordPress của bạn."
+
+#. Author of the plugin/theme
+msgid "BraveNewCode Inc."
+msgstr "BraveNewCode Inc."
+
+#. Author URI of the plugin/theme
+msgid "http://www.bravenewcode.com/"
+msgstr "http://www.bravenewcode.com/"

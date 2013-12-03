@@ -1,0 +1,2000 @@
+# Copyright (C) 2013 WPtouch Pro
+# This file is distributed under the same license as the WPtouch Pro package.
+msgid ""
+msgstr "Project-Id-Version: WPtouch Pro 3.0.2\nReport-Msgid-Bugs-To: http://wordpress.org/tag/wptouch-pro-3\nPOT-Creation-Date: 2013-05-21 17:45:27+00:00\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPO-Revision-Date: 2013-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\n"
+
+#: admin/html/help.php:1
+msgid "WPtouch Pro Help & Account Links"
+msgstr "WPtouch Pro hjælp & konto links"
+
+#: admin/html/help.php:3
+msgid "Support Forums"
+msgstr "Support Forum"
+
+#: admin/html/help.php:4
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: admin/html/help.php:5
+msgid "Account & Downloads"
+msgstr "Konto & downloads"
+
+#: admin/html/help.php:6
+msgid "BraveNewCode on Twitter"
+msgstr "BraveNewCode på Twitter"
+
+#: admin/html/help.php:7
+msgid "Plugin Licensing Terms"
+msgstr "Plugin licens regler"
+
+#: admin/html/notification-center.php:5
+msgid "Preview Mode %sOn%s"
+msgstr "Førvisningsfunktion %sPå%s"
+
+#: admin/html/notification-center.php:9
+msgid "Notifications"
+msgstr "Notifikationer"
+
+#: admin/html/notification-content.php:20
+msgid "No notifications"
+msgstr "Ingen notifikationer"
+
+#: admin/html/plugin-area.php:7
+msgid "This copy of WPtouch Pro is unlicensed! Please %sactivate your license%s, or %spurchase a license%s to enable automatic updates and full product support from us!"
+msgstr "Denne kopi af WPtouch Pro er uden licens. Venligst %saktiver din licens%s, eller %skøb en licens%s for at aktivere automatiske opdateringer og fuld support fra os!"
+
+#: admin/html/plugin-area.php:9
+msgid "This copy of WPtouch Pro is unlicensed! Please contact the site administrator regarding product licensing."
+msgstr "Denne kopi af WPtouch Pro er uden licens. Kontakt venligst sidens administrator angående produktlicens."
+
+#: admin/pages/custom/theme-browser-item.php:7
+msgid "Click to view screenshots"
+msgstr "Klik for at se skærmbilleder"
+
+#: admin/pages/custom/theme-browser-item.php:12
+#: admin/pages/custom/wptouch-admin-license.php:23
+msgid "Activate"
+msgstr "Aktiver"
+
+#: admin/pages/custom/theme-browser-item.php:14
+msgid "Copy"
+msgstr "Kopier"
+
+#: admin/pages/custom/theme-browser-item.php:16
+#: admin/settings/custom/html/custom_icon_management.php:12
+#: admin/settings/default/html/image-upload.php:13
+msgid "Delete"
+msgstr "Slet"
+
+#: admin/pages/custom/theme-browser-item.php:19
+msgid "Setup"
+msgstr "Opsætning"
+
+#: admin/pages/custom/theme-browser-item.php:55
+msgid "This theme supports %s devices"
+msgstr "Dette tema understøtter %s enheder"
+
+#: admin/pages/custom/theme-browser-item.php:61
+msgid "a child theme of %s,"
+msgstr "et undertema af %s,"
+
+#: admin/pages/custom/theme-browser-item.php:63
+#: admin/settings/custom/html/installed_icon_sets_ajax.php:8
+#: admin/settings/custom/html/installed_icon_sets_ajax.php:19
+msgid "by %s"
+msgstr "af %s"
+
+#: admin/pages/custom/theme-browser-item.php:68
+msgid "Theme location: %s"
+msgstr "Tema placering: %s"
+
+#: admin/pages/custom/theme-browser-item.php:69
+msgid "Relative to your WordPress wp-content directory."
+msgstr "Relateret til dit WordPress wp-indholdsbibliotek."
+
+#: admin/pages/custom/wptouch-admin-license.php:9
+msgid "License Details"
+msgstr "Licens detaljer"
+
+#: admin/pages/custom/wptouch-admin-license.php:11
+msgid "Note"
+msgstr "Bemærk"
+
+#: admin/pages/custom/wptouch-admin-license.php:12
+msgid "Once you activate, this page will be hidden."
+msgstr "Når du først har aktiveret vil denne side blive skjult."
+
+#: admin/pages/custom/wptouch-admin-license.php:15
+msgid "It will only reappear if you reset your WPtouch Pro settings."
+msgstr "Det vil kun komme frem igen hvis du nulstiller dine WPtouch Pro indstillinger."
+
+#: admin/pages/custom/wptouch-admin-license.php:18
+msgid "Account E-Mail Address"
+msgstr "Konto email adresse"
+
+#: admin/pages/custom/wptouch-admin-license.php:20
+msgid "Product License Key"
+msgstr "Produkt licensnøgle"
+
+#: admin/pages/custom/wptouch-admin-license.php:33
+msgid "And boom. You're done."
+msgstr "Og sådan, du er færdig."
+
+#: admin/pages/custom/wptouch-admin-license.php:34
+msgid "Activation Complete. Enjoy WPtouch Pro!"
+msgstr "Aktivation færdiggjort. Nyd WPtouch Pro!"
+
+#: admin/pages/custom/wptouch-admin-license.php:38
+msgid "Check that spelling, one more time."
+msgstr "Tjek stavekontrol en ekstra gang."
+
+#: admin/pages/custom/wptouch-admin-license.php:39
+msgid "The bravenewcode.com server rejected your E-Mail address and/or License Key. Please check they are correct and try again."
+msgstr "Bravenewcode.com serveren afviste din email adresse og/eller licensnøgle. Tjek venligst at de er korrekte og prøv igen."
+
+#: admin/pages/custom/wptouch-admin-license.php:43
+msgid "Too many cooks in the kitchen!"
+msgstr "For mange kokke i køkkenet fordærver maden!"
+
+#: admin/pages/custom/wptouch-admin-license.php:44
+msgid "The bravenewcode.com server says you’ve used all your activations. What do you want to do?"
+msgstr "Bravenewcode.com serveren siger at du har opbrugt alle dine aktiveringer. Hvad ønsker du at gøre?"
+
+#: admin/pages/custom/wptouch-admin-license.php:45
+msgid "Upgrade My License"
+msgstr "Opgrader min licens"
+
+#: admin/pages/custom/wptouch-admin-license.php:46
+msgid "Manage My Licenses"
+msgstr "Administrer mine licenser"
+
+#: admin/pages/custom/wptouch-admin-license.php:50
+msgid "The server seems confused."
+msgstr "Serveren virker forvirret."
+
+#: admin/pages/custom/wptouch-admin-license.php:51
+msgid "The bravenewcode.com server can’t seem to authorize your E-Mail address and License Key. It’s not your fault."
+msgstr "Bravenewcode.com serveren kan ikke autorisere din email adresse og licensnøgle. Det er ikke din fejl."
+
+#: admin/pages/custom/wptouch-admin-license.php:52
+msgid "Please %scontact us%s and let us know about it."
+msgstr "Venligst %skontakt os%s og fortæl os om det."
+
+#: admin/pages/wptouch-admin-general-settings.php:3
+#: themes/foundation/root-functions.php:10
+msgid "General"
+msgstr "Generelt"
+
+#: admin/pages/wptouch-admin-general-settings.php:4
+msgid "Compatibility"
+msgstr "Kompatibilitet"
+
+#: admin/pages/wptouch-admin-general-settings.php:10
+msgid "Auto-detect"
+msgstr "Find automatisk"
+
+#: admin/pages/wptouch-admin-general-settings.php:44
+msgid "Regionalization"
+msgstr "Regionalisering"
+
+#: admin/pages/wptouch-admin-general-settings.php:50
+msgid "Language"
+msgstr "Sprog"
+
+#: admin/pages/wptouch-admin-general-settings.php:51
+msgid "The WPtouch Pro admin panel &amp; supported themes will be shown in this locale."
+msgstr "WPtouch Pro admin panel &amp; supporterede temaer vil blive vist her."
+
+#: admin/pages/wptouch-admin-general-settings.php:59
+msgid "Translate administration panel text"
+msgstr "Oversæt tekst i administrationspanelet"
+
+#: admin/pages/wptouch-admin-general-settings.php:70
+msgid "Site Title & Byline"
+msgstr "Sidetitel & byline"
+
+#: admin/pages/wptouch-admin-general-settings.php:76
+msgid "WPtouch Pro site title"
+msgstr "WPtouch Pro sidetitel"
+
+#: admin/pages/wptouch-admin-general-settings.php:77
+msgid "If the title of your site is long, you can shorten it for display within WPtouch Pro themes."
+msgstr "Hvis din sides titel er for lang kan du afkorte den til visning inde i WPtouch Pro temaerne."
+
+#: admin/pages/wptouch-admin-general-settings.php:84
+msgid "Display %sPowered by WPtouch Pro%s in footer"
+msgstr "Vis %sDrevet af WPtouch Pro%s i footeren"
+
+#: admin/pages/wptouch-admin-general-settings.php:95
+msgid "Landing Page"
+msgstr "Landingsside"
+
+#: admin/pages/wptouch-admin-general-settings.php:101
+msgid "WPtouch Pro landing page"
+msgstr "WPtouch Pro landingsside"
+
+#: admin/pages/wptouch-admin-general-settings.php:106
+msgid "Default (same as WordPress)"
+msgstr "Standard (samme som WordPress)"
+
+#: admin/pages/wptouch-admin-general-settings.php:107
+msgid "Select from WordPress pages"
+msgstr "Vælg fra WordPress sider"
+
+#: admin/pages/wptouch-admin-general-settings.php:115
+msgid "Custom Slug or URL"
+msgstr "Brugerdefineret slug eller URL"
+
+#: admin/pages/wptouch-admin-general-settings.php:116
+msgid "Enter a Slug (i.e. \"/home\") or a full URL path"
+msgstr "Indtast et slug (f.eks. \"/hjem\") eller en fuld URL sti"
+
+#: admin/pages/wptouch-admin-general-settings.php:126
+msgid "Desktop / Mobile Switching"
+msgstr "Desktop / Mobil skift"
+
+#: admin/pages/wptouch-admin-general-settings.php:132
+msgid "1st time visitors see desktop theme"
+msgstr "Førstegangsbesøgende ser desktop temaet"
+
+#: admin/pages/wptouch-admin-general-settings.php:133
+msgid "Your regular theme will be shown to 1st time mobile visitors."
+msgstr "Dit almindelige tema vil blive vist til førstegangsbesøgende fra mobil."
+
+#: admin/pages/wptouch-admin-general-settings.php:140
+msgid "Show switch link in mobile view"
+msgstr "Vis skift link i mobilvisning"
+
+#: admin/pages/wptouch-admin-general-settings.php:141
+msgid "Will show toggle buttons in the theme's footer allowing users to switch to your desktop theme. Is not shown in Web-App Mode."
+msgstr "Vil vise toggle knapper i temaets footer, så bruger kan skifte til dit desktop tema. Vises ikke i Web-App Mode."
+
+#: admin/pages/wptouch-admin-general-settings.php:148
+msgid "Choose the target for the mobile switch link"
+msgstr "Vælg målgruppe til mobil switch link"
+
+#: admin/pages/wptouch-admin-general-settings.php:153
+msgid "Current page"
+msgstr "Nuværende side"
+
+#: admin/pages/wptouch-admin-general-settings.php:154
+msgid "Home page"
+msgstr "Forside"
+
+#: admin/pages/wptouch-admin-general-settings.php:160
+msgid "Desktop theme switch buttons"
+msgstr "Desktop tema skift knapper"
+
+#: admin/pages/wptouch-admin-general-settings.php:161
+msgid "Allows visitors to switch from your desktop theme to your mobile theme. You can also customize the placement of Switch buttons by placing the wptouch_desktop_switch_link() template tag somewhere in your desktop theme."
+msgstr "Lader besøgende skifte fra dit desktop tema til dit mobile tema. Du kan også skræddersy placeringen af Skift knapperne ved at placere wptouch_desktop_switch_link() template taget på dit desktop tema."
+
+#: admin/pages/wptouch-admin-general-settings.php:165
+msgid "Automatically inserted"
+msgstr "Indsættes automatisk"
+
+#: admin/pages/wptouch-admin-general-settings.php:166
+msgid "Template tag"
+msgstr "Template tag"
+
+#: admin/pages/wptouch-admin-general-settings.php:175
+msgid "Custom Code"
+msgstr "Brugerdefineret kode"
+
+#: admin/pages/wptouch-admin-general-settings.php:181
+msgid "HTML, JavaScript, statistics or custom code"
+msgstr "HTML, JavaScript, statistikker eller skræddersyet kode"
+
+#: admin/pages/wptouch-admin-general-settings.php:182
+msgid "Enter any custom code here to be output in the theme footer."
+msgstr "Indtast enhver skræddersyet kode her for at blive vist i temaets footer."
+
+#: admin/pages/wptouch-admin-general-settings.php:192
+msgid "Custom Stylesheet"
+msgstr "Brugerdefiner stylesheet"
+
+#: admin/pages/wptouch-admin-general-settings.php:198
+msgid "URL to a custom CSS file to load"
+msgstr "URL til en brugerdefineret CSS fil som skal loades"
+
+#: admin/pages/wptouch-admin-general-settings.php:199
+msgid "Useful if you have specific compatibility CSS you need to add."
+msgstr "Godt hvis du har specifik CSS du vil have tilføjet."
+
+#: admin/pages/wptouch-admin-general-settings.php:209
+msgid "Shortcodes"
+msgstr "Kortkoder"
+
+#: admin/pages/wptouch-admin-general-settings.php:215
+msgid "Remove these shortcodes when WPtouch Pro is active"
+msgstr "Fjern disse koder når WPtouch Pro er aktiv"
+
+#: admin/pages/wptouch-admin-general-settings.php:216
+msgid "Enter a comma separated list of shortcodes to remove."
+msgstr "Indtast en komma separeret liste med koder der skal fjernes."
+
+#: admin/pages/wptouch-admin-general-settings.php:226
+msgid "Ignored URLs"
+msgstr "Ignorede URL"
+
+#: admin/pages/wptouch-admin-general-settings.php:232
+msgid "Do not load WPtouch Pro on these URLs/Pages"
+msgstr "Vis ikke WPtouch Pro på disse URL/Sider"
+
+#: admin/pages/wptouch-admin-general-settings.php:233
+msgid "Each permalink URL fragment should be on its own line and relative, e.g. \"/about\" or \"/products/store\""
+msgstr "Hver permalink URL del skal være på dets egen linje og give mening, f.eks. \"/om\" eller \"/produkter/butik\""
+
+#: admin/pages/wptouch-admin-general-settings.php:243
+msgid "Desktop Theme"
+msgstr "Desktop tema"
+
+#: admin/pages/wptouch-admin-general-settings.php:249
+msgid "Try to include desktop theme functions.php file"
+msgstr "Prøv at inkludere desktop tema filen functions.php"
+
+#: admin/pages/wptouch-admin-general-settings.php:250
+msgid "This may be required for desktop themes with unique features that are not showing when WPtouch Pro is active."
+msgstr "Dette kan være påkrævet på desktop temaer med unikke funktioner som ikke vises når WPtouch Pro er aktiv."
+
+#: admin/pages/wptouch-admin-general-settings.php:257
+msgid "Method to load file"
+msgstr "Metode til at loade fil"
+
+#: admin/pages/wptouch-admin-general-settings.php:262
+msgid "Include file directly"
+msgstr "Inkluder filen direkte"
+
+#: admin/pages/wptouch-admin-general-settings.php:263
+msgid "Translate and create new files"
+msgstr "Oversæt og opret nye filer"
+
+#: admin/pages/wptouch-admin-general-settings.php:272
+msgid "Custom User-Agents"
+msgstr "Brugerdefiner bruger-agenter"
+
+#: admin/pages/wptouch-admin-general-settings.php:278
+msgid "User-agents (line separated)"
+msgstr "Bruger-agenter (linje adskilt)"
+
+#: admin/pages/wptouch-admin-general-settings.php:279
+msgid "Adding additional user-agents will force WPtouch Pro to be active for matching browsers."
+msgstr "Ved at tilføje yderligere bruger-agenter vil det kræve at WPtouch Pro er aktiv i de matchende browsere."
+
+#: admin/pages/wptouch-admin-general-settings.php:293
+msgid "Backup &amp; Import"
+msgstr "Back-up &amp; Importer"
+
+#: admin/pages/wptouch-admin-general-settings.php:299
+msgid "Automatically backup settings to the %s folder"
+msgstr "Back-up automatisk indstillinger til %s mappen"
+
+#: admin/pages/wptouch-admin-general-settings.php:301
+msgid "WPtouch Pro backups your settings each time they are saved."
+msgstr "WPtouch Pro laver en back-up hver gang dine indstillinger gemmes."
+
+#: admin/pages/wptouch-admin-general-settings.php:312
+msgid "Tools &amp; Debug"
+msgstr "Værktøjer &amp; Debug"
+
+#: admin/pages/wptouch-admin-general-settings.php:318
+msgid "Preview mode"
+msgstr "Forhåndsvisning"
+
+#: admin/pages/wptouch-admin-general-settings.php:319
+msgid "Will show WPtouch Pro in desktop browsers for logged in admin users."
+msgstr "Vil vise WPtouch Pro i desktop browsere for admin brugere der er logget ind."
+
+#: admin/pages/wptouch-admin-general-settings.php:323
+msgid "On"
+msgstr "På"
+
+#: admin/pages/wptouch-admin-general-settings.php:324
+msgid "Off"
+msgstr "Fra"
+
+#: admin/pages/wptouch-admin-general-settings.php:330
+msgid "Use jQuery 2.0 in themes (faster for mobile devices) instead of WordPress' version"
+msgstr "Brug jQuery 2.0 i temaer (hurtigere til mobile enheder) istedet for WordPress udgaven"
+
+#: admin/pages/wptouch-admin-general-settings.php:331
+msgid "jQuery 2.0 is significantly smaller and faster than previous jQuery versions - may cause problems with other plugins, use carefully."
+msgstr "jQuery 2.0 er betydelig mindre og hurtigere end tidligere jQuery udgaver - kan give problemer med andre plugins, brug kun hvis nødvendigt."
+
+#: admin/pages/wptouch-admin-general-settings.php:338
+msgid "Show load times and query counts in the footer"
+msgstr "Vis load tider og antal forespørgsler i footeren"
+
+#: admin/pages/wptouch-admin-general-settings.php:339
+msgid "Helps you find slow pages/posts on your site."
+msgstr "Hjælper dig med at finde langsomme sider/opslag på din side."
+
+#: admin/pages/wptouch-admin-general-settings.php:346
+msgid "Enable debug log"
+msgstr "Aktiver debug log"
+
+#: admin/pages/wptouch-admin-general-settings.php:347
+msgid "Creates a debug file to help diagnose installation issues."
+msgstr "Skaber en debug fil som hjælper med at finde installationsproblemer."
+
+#: admin/pages/wptouch-admin-general-settings.php:358
+msgid "WordPress Plugins"
+msgstr "WordPress Plugins"
+
+#: admin/pages/wptouch-admin-general-settings.php:371
+msgid "Admin Mode"
+msgstr "Admin funktion"
+
+#: admin/pages/wptouch-admin-general-settings.php:377
+msgid "Admin panel settings shown"
+msgstr "Viste Admin panel indstillinger"
+
+#: admin/pages/wptouch-admin-general-settings.php:382
+msgid "Default"
+msgstr "Standard"
+
+#: admin/pages/wptouch-admin-general-settings.php:383
+#: admin/settings/default/html/checkbox.php:6
+#: admin/settings/default/html/list.php:16
+#: admin/settings/default/html/numeric.php:12
+#: admin/settings/default/html/radiolist.php:12
+#: admin/settings/default/html/text.php:8
+#: admin/settings/default/html/textarea.php:8
+msgid "Advanced"
+msgstr "Avanceret"
+
+#: admin/pages/wptouch-admin-menus.php:3
+msgid "Theme Menus"
+msgstr "Tema menuer"
+
+#: admin/pages/wptouch-admin-menus.php:4
+msgid "Menu Setup"
+msgstr "Menu opsætning"
+
+#: admin/pages/wptouch-admin-menus.php:5
+msgid "Icon Upload & Sets"
+msgstr "Ikon opload & sæt"
+
+#: admin/pages/wptouch-admin-menus.php:22
+msgid "WordPress Pages"
+msgstr "WordPress sider"
+
+#: admin/pages/wptouch-admin-menus.php:28
+#: admin/settings/custom/html/icon_menu_area.php:6
+#: themes/foundation/root-functions.php:387
+#: themes/foundation/root-functions.php:801
+msgid "None"
+msgstr "Ingen"
+
+#: admin/pages/wptouch-admin-menus.php:66
+msgid "Menu Options"
+msgstr "Menu muligheder"
+
+#: admin/pages/wptouch-admin-menus.php:72
+msgid "Enable parent items as links"
+msgstr "Aktiver parent enhed som links"
+
+#: admin/pages/wptouch-admin-menus.php:73
+msgid "If disabled, parent menu items will only toggle child items."
+msgstr "Hvis deaktiveret vil parent menu enhed kun toggle child enheder."
+
+#: admin/pages/wptouch-admin-menus.php:80
+msgid "Use menu icons"
+msgstr "Brug menu ikoner"
+
+#: admin/pages/wptouch-admin-menus.php:104
+msgid "Icon Upload"
+msgstr "Ikon opload"
+
+#: admin/pages/wptouch-admin-menus.php:117
+msgid "Uploaded Icons"
+msgstr "Oploadede Ikoner"
+
+#: admin/pages/wptouch-admin-menus.php:130
+msgid "Icon Sets"
+msgstr "Ikon sæt"
+
+#: admin/pages/wptouch-admin-touchboard.php:3 core/admin-menu.php:27
+msgid "Overview"
+msgstr "Oversigt"
+
+#: admin/settings/custom/html/backup.php:1
+msgid "Download Backup File"
+msgstr "Download back-up fil"
+
+#: admin/settings/custom/html/backup.php:2
+msgid "Restore Backup File"
+msgstr "Genopret back-up fil"
+
+#: admin/settings/custom/html/custom_icon_management.php:3
+msgid "No icons have been uploaded yet"
+msgstr "Der er ikke oploadet nogen ikoner endnu"
+
+#: admin/settings/custom/html/custom_icon_upload.php:3
+msgid "Upload Icon"
+msgstr "Opload ikon"
+
+#: admin/settings/custom/html/custom_icon_upload.php:4
+#: admin/settings/default/html/image-upload.php:15
+msgid "Upload Complete!"
+msgstr "Opload færdiggjort!"
+
+#: admin/settings/custom/html/custom_icon_upload.php:9
+msgid "Ready to upload"
+msgstr "Klar til opload"
+
+#: admin/settings/custom/html/icon_menu_area.php:5
+msgid "Check All"
+msgstr "Tjek alle"
+
+#: admin/settings/custom/html/icon_menu_area.php:7
+msgid "Reset"
+msgstr "Nulstil"
+
+#: admin/settings/custom/html/icon_menu_area.php:9
+#: themes/classic-redux/default/header-bottom.php:22
+#: themes/classic-redux/default/header-bottom.php:34
+#: themes/classic-redux/default/header-bottom.php:100
+msgid "Menu"
+msgstr "Menu"
+
+#: admin/settings/custom/html/icon_menu_area.php:19
+msgid "Active menus used in this theme."
+msgstr "Aktive menuer brugt i dette tema."
+
+#: admin/settings/custom/html/icon_menu_area.php:23
+msgid "Show/Hide"
+msgstr "Vis/Skjul"
+
+#: admin/settings/custom/html/icon_menu_area.php:24
+msgid "Menu Item"
+msgstr "Menu enhed"
+
+#: admin/settings/custom/html/icon_menu_area.php:44
+msgid "Icon Set"
+msgstr "Ikon sæt"
+
+#: admin/settings/custom/html/icon_menu_area.php:54
+msgid "Drag icons to associate them with menu items"
+msgstr "Træk ikoner for at tilknytte dem med menu enheder"
+
+#: admin/settings/custom/html/icon_menu_area.php:79
+msgid "You don't have any custom icons yet."
+msgstr "Du har ikke nogen brugerdefineret ikoner endnu."
+
+#: admin/settings/custom/html/icon_menu_area.php:95
+msgid "Default Icon"
+msgstr "Standard ikon"
+
+#: admin/settings/custom/html/icon_menu_area.php:96
+msgid "applies to all unset icons"
+msgstr "gælder til alle ikoner som ikke er del af sæt"
+
+#: admin/settings/custom/html/icon_menu_area.php:104
+msgid "Trash"
+msgstr "Skraldespand"
+
+#: admin/settings/custom/html/icon_menu_area.php:105
+msgid "drag icon here to reset"
+msgstr "træk ikonet her for at nulstille det"
+
+#: admin/settings/custom/html/installed_icon_sets.php:2
+msgid "Gathering information about available icon sets..."
+msgstr "Indsamler information om tilgængelige ikon sæt..."
+
+#: admin/settings/custom/html/installed_icon_sets.php:4
+#: core/notifications.php:235
+msgid "The %s%s%s directory is not currently writable. %sPlease fix this issue to enable installation of additional icon sets."
+msgstr "%s%s%s biblioteket kan ikke tilskrives nu. %sVenligst ordn problemet for at aktivere installation af flere ikonsæt."
+
+#: admin/settings/custom/html/installed_icon_sets_ajax.php:4
+#: core/class-wptouch-pro.php:1184 core/class-wptouch-pro.php:1185
+#: core/config.php:39
+msgid "Custom Icons"
+msgstr "Brugerdefineret ikoner"
+
+#: admin/settings/custom/html/installed_icon_sets_ajax.php:9
+#: admin/settings/custom/html/installed_icon_sets_ajax.php:21
+msgid "Installed"
+msgstr "Installeret"
+
+#: admin/settings/custom/html/installed_icon_sets_ajax.php:20
+msgid "Installing..."
+msgstr "Installerer..."
+
+#: admin/settings/custom/html/installed_icon_sets_ajax.php:20
+msgid "Install"
+msgstr "Installer"
+
+#: admin/settings/custom/html/installed_icon_sets_ajax.php:22
+msgid "Unable to Install"
+msgstr "Kunne ikke installere"
+
+#: admin/settings/custom/html/plugin-compat-ajax.php:11
+#: themes/foundation/modules/custom-posts/custom-posts.php:63
+msgid "Enable %s"
+msgstr "Aktiver %s"
+
+#: admin/settings/custom/html/plugin-compat-ajax.php:12
+msgid "When unchecked, %s will be disabled for users viewing your WPtouch Pro theme."
+msgstr "Hvis ikke afkrydset, %s vil være deaktiveret for brugere som ser dit WPtouch Pro tema."
+
+#: admin/settings/custom/html/plugin-compat-ajax.php:20
+msgid "No plugins to disable."
+msgstr "Der er ingen plugins der skal deaktiveres."
+
+#: admin/settings/custom/html/plugin-compat.php:3
+msgid "Your active plugin list is refreshing"
+msgstr "Din aktive plugin liste er ved at opdatere"
+
+#: admin/settings/custom/html/restore.php:2
+msgid "Please paste your encoded settings below and save to restore your settings."
+msgstr "Indsæt venligst dine kodede indstillinger nedenfor og gem for at genoprette dine indstillinger."
+
+#: admin/settings/custom/html/touchboard.php:5
+msgid "This copy of %s is currently unlicensed!"
+msgstr "Denne kopi af %s er på nuværende tidspunkt uden licens!"
+
+#: admin/settings/custom/html/touchboard.php:7
+msgid "Get started with activation &raquo;"
+msgstr "Kom igang med aktivation &raquo;"
+
+#: admin/settings/custom/html/touchboard.php:16
+msgid "Loading remote images"
+msgstr "Henter fjernbilleder"
+
+#: admin/settings/custom/html/touchboard.php:27
+msgid "Get Support"
+msgstr "Få support"
+
+#: admin/settings/custom/html/touchboard.php:28
+msgid "File tickets and get direct support for WPtouch Pro from BraveNewCode"
+msgstr "Opret en sag og få direkte support til WPtouch Pro fra BraveNewCode"
+
+#: admin/settings/custom/html/touchboard.php:31
+msgid "Knowledgebase"
+msgstr "Knowledgebase"
+
+#: admin/settings/custom/html/touchboard.php:32
+msgid "Read helpful tutorials and product articles to get the most out of WPtouch Pro"
+msgstr "Læs brugbare tutorials og produktartikler for at få det meste ud af WPtouch Pro"
+
+#: admin/settings/custom/html/touchboard.php:35
+msgid "Product Updates"
+msgstr "Produkt opdateringer"
+
+#: admin/settings/custom/html/touchboard.php:36
+msgid "Check out what's new in the WPtouch Pro update change log"
+msgstr "Tjek det nyeste i WPtouch Pro opdateringsloggen"
+
+#: admin/settings/custom/html/touchboard.php:39
+msgid "Manage Account"
+msgstr "Administrer konto"
+
+#: admin/settings/custom/html/touchboard.php:40
+msgid "Add or edit your active sites, or upgrade your license"
+msgstr "Tilføj eller ret dine aktive sider, eller opgrader din licens"
+
+#: admin/settings/custom/html/touchboard.php:47
+msgid "%s Change Log"
+msgstr "%s Opdateringslog"
+
+#: admin/settings/custom/html/touchboard.php:58
+msgid "WPtouch News"
+msgstr "WPtouch Nyheder"
+
+#: admin/settings/default/html/checkbox.php:7
+#: admin/settings/default/html/list.php:20
+#: admin/settings/default/html/numeric.php:16
+#: admin/settings/default/html/radiolist.php:14
+#: admin/settings/default/html/text.php:9
+#: admin/settings/default/html/textarea.php:9
+msgid "New"
+msgstr "Ny"
+
+#: admin/settings/default/html/color.php:6
+msgid "Undo"
+msgstr "Gør om"
+
+#: admin/settings/default/html/color.php:7
+msgid "Desktop theme colors"
+msgstr "Desktop tema farver"
+
+#: admin/settings/default/html/color.php:7
+msgid "Palette"
+msgstr "Farveskala"
+
+#: admin/settings/default/html/debuginfo.php:12
+msgid "View Debug File"
+msgstr "Se debug fil"
+
+#: admin/settings/default/html/debuginfo.php:16
+#: admin/settings/default/html/debuginfo.php:18
+msgid "Your Server Configuration"
+msgstr "Din server konfiguration"
+
+#: admin/settings/default/html/image-upload.php:11
+msgid "Upload"
+msgstr "Opload"
+
+#: admin/settings/default/html/redirect.php:17
+msgid "WordPress Page"
+msgstr "WordPress side"
+
+#: admin/settings/default/html/user-agent-list.php:4
+#: admin/settings/default/html/user-agent-list.php:6
+msgid "WPtouch Pro will be active when any of the following user-agent combinations are matched"
+msgstr "WPtouch Pro vil være aktiv når enhver af de følgende user-agent kombinationer er det samme"
+
+#: core/admin-ajax.php:245
+msgid "Version %s"
+msgstr "Udgave %s"
+
+#: core/admin-ajax.php:251
+msgid "There is a temporary issue retrieving the change-log.  Please try again later."
+msgstr "Der opstod et midlertidigt problem under afhentning af opdateringsloggen. Prøv venligst igen senere."
+
+#: core/admin-menu.php:28
+msgid "Core Settings"
+msgstr "Core indstillinger"
+
+#: core/admin-menu.php:29
+msgid "Themes"
+msgstr "Temaer"
+
+#: core/admin-menu.php:32
+msgid "Theme Options"
+msgstr "Tema muligheder"
+
+#: core/admin-menu.php:34
+msgid "%s Theme Options"
+msgstr "%s Tema muligheder"
+
+#: core/admin-menu.php:40 core/admin-menu.php:42
+msgid "Menus"
+msgstr "Menuer"
+
+#: core/admin-menu.php:47
+msgid "License"
+msgstr "Licens"
+
+#: core/admin-render.php:67
+msgid "Save Changes"
+msgstr "Gem ændringer"
+
+#: core/admin-render.php:68
+msgid "Preview Theme"
+msgstr "Forhåndsvisning af tema"
+
+#: core/admin-render.php:69
+msgid "Reset Settings"
+msgstr "Nulstil indstillingerne"
+
+#: core/class-wptouch-pro.php:323
+msgid "Heads up!"
+msgstr "Påmindelse!"
+
+#: core/class-wptouch-pro.php:324
+msgid "Theme Preview requires Chrome or Safari."
+msgstr "Tema forhåndsvisning kræver Chrome eller Safari."
+
+#: core/class-wptouch-pro.php:325
+msgid "This will reset all WPtouch Pro settings.\nAre you sure?"
+msgstr "Dette vil nulstille alle WPtouch Pro indstillingerne.\nEr du sikker?"
+
+#: core/class-wptouch-pro.php:326
+msgid "This will reset all WPtouch Pro menu and icon settings.\nAre you sure?"
+msgstr "Dette vil nulstille alle WPtouch Pro menu og ikon indstillinger.\nEr du sikker?"
+
+#: core/class-wptouch-pro.php:888 themes/foundation/root-functions.php:501
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: core/class-wptouch-pro.php:969
+msgid "WPtouch Pro Changelog"
+msgstr "WPtouch Pro Changelog"
+
+#: core/class-wptouch-pro.php:1883
+msgid "Directory Problem"
+msgstr "Problem med bibliotek"
+
+#: core/class-wptouch-pro.php:1884
+msgid "One or more required directories could not be created"
+msgstr "En eller flere påkrævede biblioteker kunne ikke oprettes"
+
+#: core/globals.php:197
+msgid "smartphone"
+msgstr "smartphone"
+
+#: core/globals.php:199
+msgid "tablet"
+msgstr "tablet"
+
+#: core/notifications.php:121
+msgid "License Missing"
+msgstr "Licens mangler"
+
+#: core/notifications.php:122
+msgid "This installation of WPtouch Pro is currently unlicensed."
+msgstr "Denne installation af WPtouch Pro er uden licens."
+
+#: core/notifications.php:133
+msgid "WPtouch Pro %s"
+msgstr "WPtouch Pro %s"
+
+#: core/notifications.php:134
+msgid "A new version of WPtouch Pro is available."
+msgstr "En ny udgave af WPtouch Pro er tilgængelig"
+
+#: core/notifications.php:144
+msgid "WPtouch Pro 3 cannot co-exist with WPtouch 1.x. Disable it first in the WordPress Plugins settings."
+msgstr "WPtouch Pro 3 virker ikke uden WPtouch 1.x. Først deaktiver det i WordPress Plugin indstillingerne."
+
+#: core/notifications.php:154
+msgid "WPtouch Pro 3 cannot co-exist with WPtouch Pro 2.x. Disable it first in the WordPress Plugins settings."
+msgstr "WPtouch Pro 3 virker ikke uden WPtouch Pro 2.x. Først deaktiver det i WordPress Plugin indstillingerne."
+
+#: core/notifications.php:165
+msgid "WPtouch Pro prefers pretty permalinks to be enabled within WordPress."
+msgstr "WPtouch Pro foretrækker kønne permalinks aktiveret inde i WordPress."
+
+#: core/notifications.php:175
+msgid "WPtouch Pro will not work fully in safe mode."
+msgstr "WPtouch Pro virker ikke fuldt i fejlsikret tilstand."
+
+#: core/notifications.php:185 core/notifications.php:195
+#: core/notifications.php:205
+msgid "Extra configuration is required. The plugin must be configured to exclude the user agents that WPtouch Pro uses."
+msgstr "Det er nødvendigt med ekstra konfiguration. Plugin skal konfigureres så det ikke indeholder de bruger-agenter som WPtouch Pro bruger."
+
+#: core/notifications.php:215
+msgid "Extra configuration is required. Add paths to your active WPtouch Pro theme CSS and Javascript files as files to ignore in WPMinify."
+msgstr "Det er nødvendigt med ekstra konfiguration, tilføj stier til dit aktive WPtouch Pro temas CSS og Javascript filer, som filer der skal ignoreres i WPMinify."
+
+#: core/notifications.php:225
+msgid "This plugin may not work correctly in WPtouch Pro, and should be disabled in the Plugin Compatibility section."
+msgstr "Dette plugin virker måske ikke korrekt i WPtouch Pro og burde deaktiveres i Plugin Kompabilitet området."
+
+#: include/add-ons/wordtwit-pro.php:179
+#: themes/foundation/modules/twitter/twitter.php:35
+msgid "%d second ago"
+msgid_plural "%d seconds ago"
+msgstr[0] "%d sekund siden"
+msgstr[1] "%d sekunder siden"
+
+#: include/add-ons/wordtwit-pro.php:182
+#: themes/foundation/modules/twitter/twitter.php:38
+msgid "%d minute ago"
+msgid_plural "%d minutes ago"
+msgstr[0] "%d minut siden"
+msgstr[1] "%d minutter siden"
+
+#: include/add-ons/wordtwit-pro.php:185
+#: themes/foundation/modules/twitter/twitter.php:41
+msgid "%d hour ago"
+msgid_plural "%d hours ago"
+msgstr[0] "%d time siden"
+msgstr[1] "%d timer siden"
+
+#: include/add-ons/wordtwit-pro.php:188
+#: themes/foundation/modules/twitter/twitter.php:44
+msgid "%d day ago"
+msgid_plural "%d days ago"
+msgstr[0] "%d dag siden"
+msgstr[1] "%d dage siden"
+
+#: include/html/desktop-switch.php:2
+msgid "Desktop Version"
+msgstr "Desktop udgave"
+
+#: include/html/desktop-switch.php:2
+msgid "Switch To Mobile Version"
+msgstr "Skift til mobil udgave"
+
+#: include/html/footer.php:2
+msgid "Powered by %s%s%s"
+msgstr "Drevet af %s%s%s"
+
+#: include/html/footer.php:3
+msgid "By %s"
+msgstr "Af %s"
+
+#: include/html/load-times.php:2
+msgid "%d queries in %0.1f ms"
+msgstr "%d forespørgsler i %0.1f ms"
+
+#: themes/classic-redux/default/header-bottom.php:37
+#: themes/classic-redux/default/header-bottom.php:53
+msgid "Categories"
+msgstr "Kategorier"
+
+#: themes/classic-redux/default/header-bottom.php:41
+#: themes/classic-redux/default/header-bottom.php:60
+msgid "Tags"
+msgstr "Tags"
+
+#: themes/classic-redux/default/header-bottom.php:45
+#: themes/classic-redux/default/header-bottom.php:79
+msgid "Tweets"
+msgstr "Tweets"
+
+#: themes/classic-redux/default/header-bottom.php:48
+#: themes/classic-redux/default/header-bottom.php:70
+msgid "Search"
+msgstr "Søg"
+
+#: themes/classic-redux/default/header-bottom.php:68
+msgid "Search this website"
+msgstr "Søg denne hjemmeside"
+
+#: themes/classic-redux/default/header-bottom.php:82
+msgid "Follow %s on Twitter"
+msgstr "Følg %s på Twitter"
+
+#: themes/classic-redux/default/index.php:34
+#: themes/cms/default/header-bottom.php:47
+#: themes/foundation/default/index.php:32
+msgid "newer posts"
+msgstr "nyere opslag"
+
+#: themes/classic-redux/default/index.php:34
+#: themes/cms/default/header-bottom.php:43
+#: themes/foundation/default/index.php:32
+msgid "older posts"
+msgstr "ældre opslag"
+
+#: themes/classic-redux/default/nav-bar.php:8
+msgid "previous post"
+msgstr "tidligere opslag"
+
+#: themes/classic-redux/default/nav-bar.php:14
+msgid "next post"
+msgstr "næste opslag"
+
+#: themes/classic-redux/default/post-loop.php:24
+msgid "by"
+msgstr "af"
+
+#: themes/classic-redux/default/post-loop.php:32
+#: themes/foundation/default/comments.php:15
+msgid "no responses"
+msgstr "ingen svar"
+
+#: themes/classic-redux/default/post-loop.php:32
+#: themes/foundation/default/comments.php:15
+msgid "1 response"
+msgstr "1 svar"
+
+#: themes/classic-redux/default/post-loop.php:32
+#: themes/foundation/default/comments.php:15
+msgid "% responses"
+msgstr "% svar"
+
+#: themes/classic-redux/default/post-loop.php:52
+msgid "Read This Post"
+msgstr "Læs dette opslag"
+
+#: themes/classic-redux/default/search.php:5
+#: themes/foundation/default/search.php:5
+msgid "You searched for \"%s\""
+msgstr "Du søgte efter \"%s\""
+
+#: themes/classic-redux/default/search.php:16
+#: themes/foundation/default/search.php:16
+msgid "%s results"
+msgstr "%s resultater"
+
+#: themes/classic-redux/default/search.php:40
+#: themes/foundation/default/search.php:35
+msgid "No search results found"
+msgstr "Ingen søgeresultater fundet"
+
+#: themes/classic-redux/default/single.php:18
+msgid "%s at %s"
+msgstr "%s ved %s"
+
+#: themes/classic-redux/default/single.php:20
+msgid "Written by %s"
+msgstr "Skrevet af %s"
+
+#: themes/classic-redux/root-functions.php:7
+#: themes/classic-redux/root-functions.php:196
+msgid "Tablets"
+msgstr "Tablets"
+
+#: themes/classic-redux/root-functions.php:61
+msgid "Header Menu"
+msgstr "Header menu"
+
+#: themes/classic-redux/root-functions.php:63 themes/cms/root-functions.php:103
+#: themes/cms/root-functions.php:112 themes/simple/root-functions.php:55
+#: themes/simple/root-functions.php:66
+msgid "Choose a menu"
+msgstr "Vælg en menu"
+
+#: themes/classic-redux/root-functions.php:70 themes/cms/root-functions.php:118
+#: themes/simple/root-functions.php:73
+msgid "Header background"
+msgstr "Header baggrund"
+
+#: themes/classic-redux/root-functions.php:71 themes/cms/root-functions.php:119
+#: themes/simple/root-functions.php:74
+msgid "Theme background"
+msgstr "Tema baggrund"
+
+#: themes/classic-redux/root-functions.php:72 themes/cms/root-functions.php:120
+#: themes/simple/root-functions.php:75
+msgid "Links"
+msgstr "Links"
+
+#: themes/classic-redux/root-functions.php:202
+msgid "Add tablet support"
+msgstr "Tilføj tablet support"
+
+#: themes/classic-redux/root-functions.php:214
+msgid "Posts"
+msgstr "Opslag"
+
+#: themes/classic-redux/root-functions.php:220
+msgid "Post thumbnails"
+msgstr "Vis thumbnails"
+
+#: themes/classic-redux/root-functions.php:225
+msgid "No thumbnails"
+msgstr "Ingen thumbnails"
+
+#: themes/classic-redux/root-functions.php:226
+msgid "Blog listing only"
+msgstr "Kun Blog visning"
+
+#: themes/classic-redux/root-functions.php:227
+msgid "Blog listing, single posts"
+msgstr "Blog visning, enkelt opslag"
+
+#: themes/classic-redux/root-functions.php:228
+msgid "All (blog, single, search and archive)"
+msgstr "Alle (blog, enkelt, søg og arkivér)"
+
+#: themes/classic-redux/root-functions.php:234
+msgid "Show post date"
+msgstr "Vis opslagsdato"
+
+#: themes/classic-redux/root-functions.php:242
+msgid "Show post author"
+msgstr "Vis opslagets forfatter"
+
+#: themes/classic-redux/root-functions.php:250
+msgid "Show post categories and tags"
+msgstr "Vis opslag kategorier og tags"
+
+#: themes/classic-redux/root-functions.php:263
+msgid "Miscellaneous"
+msgstr "Diverse"
+
+#: themes/classic-redux/root-functions.php:269
+msgid "Drop-down button says \"Menu\""
+msgstr "Drop-down knap siger \"Menu\""
+
+#: themes/classic-redux/root-functions.php:277
+msgid "Use infinite scrolling for blog"
+msgstr "Brug uendelig scroll til blog"
+
+#: themes/classic-redux/root-functions.php:285
+msgid "Use rounded corners"
+msgstr "Brug runde hjørner"
+
+#: themes/classic-redux/root-functions.php:297
+msgid "Menu Tab Bar"
+msgstr "Menu Fane Bar"
+
+#: themes/classic-redux/root-functions.php:303
+msgid "Show tab bar"
+msgstr "Vis fane bar"
+
+#: themes/classic-redux/root-functions.php:311
+msgid "Tab-bar shows categories or tags"
+msgstr "Fane bar viser kategorier eller tags"
+
+#: themes/classic-redux/root-functions.php:316
+msgid "Categories and tags"
+msgstr "Kategorier og tags"
+
+#: themes/classic-redux/root-functions.php:317
+msgid "Categories only"
+msgstr "Kun kategorier"
+
+#: themes/classic-redux/root-functions.php:318
+msgid "Tags only"
+msgstr "Kun tags"
+
+#: themes/classic-redux/root-functions.php:319
+msgid "No categories or tags"
+msgstr "Ingen kategorier eller tags"
+
+#: themes/classic-redux/root-functions.php:325
+msgid "Max categories / tags"
+msgstr "Maks. kategorier / tags"
+
+#: themes/classic-redux/root-functions.php:343
+#: themes/cms/root-functions.php:212 themes/simple/root-functions.php:291
+msgid "CSS Effects"
+msgstr "CSS Effekter"
+
+#: themes/classic-redux/root-functions.php:349
+#: themes/cms/root-functions.php:218
+msgid "Add a noise effect to the header and theme background"
+msgstr "Tilføj lydeffekter til header og tema baggrund"
+
+#: themes/classic-redux/root-functions.php:350
+#: themes/cms/root-functions.php:219 themes/simple/root-functions.php:298
+msgid "Will apply the effect overtop of any background image you upload."
+msgstr "Vil tilføje effekten ovenpå ethvert baggrundsbillede som du oploader."
+
+#: themes/cms/default/header-bottom.php:14
+msgid "menu"
+msgstr "menu"
+
+#: themes/cms/default/header-bottom.php:25
+#: themes/simple/default/footer-top.php:7
+msgid "search this website"
+msgstr "søg denne hjemmeside"
+
+#: themes/cms/default/header-bottom.php:26
+#: themes/simple/default/footer-top.php:9
+msgid "search"
+msgstr "søg"
+
+#: themes/cms/root-functions.php:43
+msgid "Alt Menu"
+msgstr "Alternativ Menu"
+
+#: themes/cms/root-functions.php:101
+msgid "Main Menu"
+msgstr "Hovedmenu"
+
+#: themes/cms/root-functions.php:110
+msgid "Alternate Menu"
+msgstr "Alternativ menu"
+
+#: themes/cms/root-functions.php:156
+msgid "Category Slider"
+msgstr "Kategori slider"
+
+#: themes/cms/root-functions.php:162
+msgid "Enable category slider"
+msgstr "Aktiver kategori slider"
+
+#: themes/cms/root-functions.php:175 themes/simple/root-functions.php:272
+msgid "Tiled Background Image"
+msgstr "Baggrundsbillede tiled"
+
+#: themes/cms/root-functions.php:181 themes/simple/root-functions.php:278
+msgid "(Scaled for retina displays)"
+msgstr "(Skaleret til retina visninger)"
+
+#: themes/cms/root-functions.php:193
+msgid "Alternate Menu Title"
+msgstr "Alternativ menu titel"
+
+#: themes/cms/root-functions.php:199
+msgid "Alternate menu title (if used)"
+msgstr "Alternativ menu titel (hvis brugt)"
+
+#: themes/cms/root-functions.php:200
+msgid "If you use a second menu in CMS, this text will be used for the drop-down button title."
+msgstr "Hvis du bruger en sekundær menu i CMS vil denne tekst blive brugt til navnet på drop-down knappen."
+
+#: themes/cms/root-functions.php:230
+msgid "Static Front Page"
+msgstr "Statisk forside"
+
+#: themes/cms/root-functions.php:236
+msgid "Static front page alternate content"
+msgstr "Statisk forside, alternativ indhold"
+
+#: themes/cms/root-functions.php:237
+msgid "Shows after the featured slider (if enabled), and replaces your Static Front Page content. HTML allowed."
+msgstr "Vises efter den foretrukne slider (hvis aktiveret), og erstatter din Statiske Forsides indhold. HTML tilladt."
+
+#: themes/foundation/default/404.php:6
+msgid "404 Not Found"
+msgstr "404 Ikke fundet"
+
+#: themes/foundation/default/404.php:8
+msgid "The post or page you requested is no longer available."
+msgstr "Den besked eller side du ledte efter er ikke længere tilgængelig."
+
+#: themes/foundation/default/attachment.php:43
+msgid "&laquo; previous in gallery"
+msgstr "&laquo; tidligere i galleriet"
+
+#: themes/foundation/default/attachment.php:45
+msgid "next in gallery &raquo;"
+msgstr "næste i galleriet &raquo;"
+
+#: themes/foundation/default/comments.php:24
+#: themes/foundation/default/comments.php:30
+msgid "Load More Comments&hellip;"
+msgstr "Hent flere kommentarer&hellip;"
+
+#: themes/foundation/default/comments.php:43
+msgid "comments are closed"
+msgstr "kommentarer er lukket"
+
+#: themes/foundation/default/comments.php:52
+msgid "Cancel"
+msgstr "Afbryd"
+
+#: themes/foundation/default/comments.php:55
+msgid "Leave a Reply"
+msgstr "Efterlad et svar"
+
+#: themes/foundation/default/comments.php:55
+msgid "Leave a Reply to %s"
+msgstr "Efterlad et svar til %s"
+
+#: themes/foundation/default/comments.php:58
+msgid "You must be %slogged in%s to post a comment."
+msgstr "Du skal være %slogget ind%s for at kunne poste en kommentar."
+
+#: themes/foundation/default/comments.php:68
+msgid "Logged in as"
+msgstr "Logget ind som"
+
+#: themes/foundation/default/comments.php:68
+msgid "Log out"
+msgstr "Log ud"
+
+#: themes/foundation/default/comments.php:72
+msgid "Name"
+msgstr "Navn"
+
+#: themes/foundation/default/comments.php:74
+#: themes/foundation/modules/social-links/social-links.php:62
+msgid "E-Mail"
+msgstr "Email"
+
+#: themes/foundation/default/comments.php:76
+msgid "Website"
+msgstr "Hjemmeside"
+
+#: themes/foundation/default/comments.php:82
+msgid "Publish"
+msgstr "Offentliggør"
+
+#: themes/foundation/default/page.php:22
+#: themes/foundation/root-functions.php:336
+#: themes/foundation/root-functions.php:1475
+msgid "Pages"
+msgstr "Sider"
+
+#: themes/foundation/default/single.php:13
+msgid "By"
+msgstr "Af"
+
+#: themes/foundation/default/switch-link.php:8
+msgid "mobile"
+msgstr "mobil"
+
+#: themes/foundation/default/switch-link.php:9
+msgid "desktop"
+msgstr "desktop"
+
+#: themes/foundation/modules/base/base.php:69
+msgid "Loading"
+msgstr "Loader"
+
+#: themes/foundation/modules/base/preview-bar.php:2
+msgid "Theme Preview"
+msgstr "Tema forhåndsvisning"
+
+#: themes/foundation/modules/base/preview-bar.php:3
+msgid "Reload"
+msgstr "Genindlæs"
+
+#: themes/foundation/modules/custom-posts/custom-posts.php:75
+msgid "Custom Post Support"
+msgstr "Brugerdefiner support til beskeder"
+
+#: themes/foundation/modules/custom-posts/custom-posts.php:81
+msgid "Enable custom post-type support"
+msgstr "Aktiver brugerdefineret besked type support"
+
+#: themes/foundation/modules/custom-posts/custom-posts.php:89
+msgid "Show custom post taxonomy"
+msgstr "Vis brugerdefineret besked klassificering"
+
+#: themes/foundation/modules/custom-posts/custom-posts.php:101
+msgid "Custom Post Types"
+msgstr "Brugerdefiner besked typer"
+
+#: themes/foundation/modules/google-fonts/google-fonts.php:10
+msgid "Browser Fonts"
+msgstr "Browser skrifttyper"
+
+#: themes/foundation/modules/google-fonts/google-fonts.php:18
+msgid "Typography"
+msgstr "Typografi"
+
+#: themes/foundation/modules/google-fonts/google-fonts.php:24
+msgid "Font style"
+msgstr "Skrifttype"
+
+#: themes/foundation/modules/google-fonts/google-fonts.php:25
+msgid "Choose a Google font pairing designed for this theme, or default browser fonts."
+msgstr "Vælg en Google skrifttype som passer til dette tema, eller brug browserens standard skrifttyper."
+
+#: themes/foundation/modules/sharing/sharing-html.php:2
+msgid "Share"
+msgstr "Del"
+
+#: themes/foundation/modules/sharing/sharing-html.php:3
+msgid "Tweet"
+msgstr "Tweet"
+
+#: themes/foundation/modules/sharing/sharing-html.php:5
+msgid "Mail"
+msgstr "Mail"
+
+#: themes/foundation/modules/sharing/sharing.php:75
+msgid "Sharing"
+msgstr "Deler"
+
+#: themes/foundation/modules/sharing/sharing.php:81
+msgid "Show sharing links"
+msgstr "Vis delte links"
+
+#: themes/foundation/modules/sharing/sharing.php:82
+msgid "Will show Facebook, Twitter, Google+ and Email buttons on single posts."
+msgstr "Vil vise Facebook, Twitter, Google+ og Email knapper på enkelte opslag."
+
+#: themes/foundation/modules/sharing/sharing.php:89
+msgid "Sharing links location"
+msgstr "Placering for delte links"
+
+#: themes/foundation/modules/sharing/sharing.php:94
+msgid "Above post content"
+msgstr "Over opslagets indhold"
+
+#: themes/foundation/modules/sharing/sharing.php:95
+msgid "Below post content"
+msgstr "Nedenfor opslagets indhold"
+
+#: themes/foundation/modules/sharing/sharing.php:101
+msgid "Color scheme"
+msgstr "Farvesammensætning"
+
+#: themes/foundation/modules/sharing/sharing.php:106
+msgid "Theme colors"
+msgstr "Tema farver"
+
+#: themes/foundation/modules/sharing/sharing.php:107
+msgid "Social network colors"
+msgstr "Sociale netværk farver"
+
+#: themes/foundation/modules/social-links/social-links.php:8
+msgid "Footer Social Links"
+msgstr "Footer Sociale Links"
+
+#: themes/foundation/modules/social-links/social-links.php:15
+msgid "Full URL to your Facebook page"
+msgstr "Fuld URL til din Facebook side"
+
+#: themes/foundation/modules/social-links/social-links.php:23
+msgid "Full URL to your Twitter profile"
+msgstr "Fuld URL til din Twitter profil"
+
+#: themes/foundation/modules/social-links/social-links.php:31
+msgid "Full URL to your Google+ profile"
+msgstr "Fuld URL til din Google+ profil"
+
+#: themes/foundation/modules/social-links/social-links.php:39
+msgid "Full URL to your Pinterest page"
+msgstr "Fuld URL til din Pinterest side"
+
+#: themes/foundation/modules/social-links/social-links.php:47
+msgid "Full URL to your Vimeo page"
+msgstr "Fuld URL til din Vimeo side"
+
+#: themes/foundation/modules/social-links/social-links.php:54
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: themes/foundation/modules/social-links/social-links.php:55
+msgid "Full URL to your LinkedIn profile"
+msgstr "Fuld URL til din LinkedIn profil"
+
+#: themes/foundation/modules/social-links/social-links.php:63
+msgid "E-Mail address"
+msgstr "E-mail adresse"
+
+#: themes/foundation/modules/social-links/social-links.php:71
+msgid "Full URL to your RSS feed"
+msgstr "Fuld URL til din RSS feed"
+
+#: themes/foundation/modules/webapp/webapp.php:108
+msgid "External link— open it in the browser?"
+msgstr "Ekstern link - åben i browseren?"
+
+#: themes/foundation/modules/webapp/webapp.php:109
+msgid "File link— Do you want to open it in the browser?"
+msgstr "Fil link - Ønsker du at åbne det i browseren?"
+
+#: themes/foundation/root-functions.php:11
+msgid "Branding"
+msgstr "Branding"
+
+#: themes/foundation/root-functions.php:12
+msgid "Media Handling"
+msgstr "Medie håndtering"
+
+#: themes/foundation/root-functions.php:13
+msgid "Web-App Mode"
+msgstr "Web-App Funktion"
+
+#: themes/foundation/root-functions.php:14
+msgid "Homescreen Icons"
+msgstr "Hovedskærm ikoner"
+
+#: themes/foundation/root-functions.php:15
+msgid "Advertising"
+msgstr "Reklamering"
+
+#: themes/foundation/root-functions.php:16
+msgid "Custom Content"
+msgstr "Brugerdefineret indhold"
+
+#: themes/foundation/root-functions.php:96
+msgid "Install this Web-App on your [device]: tap [icon] then \"Add to Home Screen\""
+msgstr "Installer denne Web-App på din [device]: tap [icon] og herefter \"Føj til hovedskærm\""
+
+#: themes/foundation/root-functions.php:287
+msgid "Number of posts in post listings"
+msgstr "Antallet af opslag i opslagsvisningerne"
+
+#: themes/foundation/root-functions.php:288
+msgid "Overrides the WordPress Reading settings for \"Blog pages show at most\""
+msgstr "Overskriver indstillingerne i WordPress for læsning af \"Blog sider vises mest\""
+
+#: themes/foundation/root-functions.php:295
+msgid "Excluded categories"
+msgstr "Ekskluder kategorier"
+
+#: themes/foundation/root-functions.php:296
+msgid "Comma separated by category name"
+msgstr "Komma separeret efter kategori navn"
+
+#: themes/foundation/root-functions.php:303
+msgid "Excluded tags"
+msgstr "Ekskluder tags"
+
+#: themes/foundation/root-functions.php:304
+msgid "Comma separated by tag name"
+msgstr "Komma separeret efter tag navn"
+
+#: themes/foundation/root-functions.php:314
+msgid "Blog"
+msgstr "Blog"
+
+#: themes/foundation/root-functions.php:325
+msgid "Show comments on pages"
+msgstr "Vis kommentarer på siderne"
+
+#: themes/foundation/root-functions.php:326
+msgid "Overrides the WordPress settings for showing comments on pages."
+msgstr "Overskriver WordPress indstillingerne for at vise kommentarer på siderne."
+
+#: themes/foundation/root-functions.php:345
+msgid "Disabled"
+msgstr "Deaktiveret"
+
+#: themes/foundation/root-functions.php:360
+msgid "Twitter account to use for Tweet display"
+msgstr "Twitter konto som skal bruges til Tweet visning"
+
+#: themes/foundation/root-functions.php:376
+msgid "Video Handling"
+msgstr "Video håndtering"
+
+#: themes/foundation/root-functions.php:388
+msgid "CSS only (HTML5 videos)"
+msgstr "Kun CSS (HTML5 videoer)"
+
+#: themes/foundation/root-functions.php:389
+msgid "FitVids Method"
+msgstr "FitVids Metode"
+
+#: themes/foundation/root-functions.php:390
+msgid "Fluid-Width Method"
+msgstr "Fluid-Width Metode"
+
+#: themes/foundation/root-functions.php:402
+msgid "Featured Slider"
+msgstr "Vist slider"
+
+#: themes/foundation/root-functions.php:408
+msgid "Enable featured slider"
+msgstr "Aktiver viste slider"
+
+#: themes/foundation/root-functions.php:409
+msgid "Requires at least 2 entries to contain featured images"
+msgstr "Kræver som minimum 2 for at indeholde viste billeder"
+
+#: themes/foundation/root-functions.php:416
+msgid "Continuously slide"
+msgstr "Fortsat slide"
+
+#: themes/foundation/root-functions.php:424
+msgid "Grayscale images (CSS 3 effect)"
+msgstr "Gråtone billeder (CSS 3 effekt)"
+
+#: themes/foundation/root-functions.php:425
+msgid "Featured slider images will be in grayscale for devices that support CSS filters."
+msgstr "Viste slide billeder vil være i gråtoner for enheder som understøtter CSS filtre."
+
+#: themes/foundation/root-functions.php:432
+msgid "Automatically slide"
+msgstr "Automatisk slider"
+
+#: themes/foundation/root-functions.php:440
+msgid "Slide transition speed"
+msgstr "Slide overgangshastighed"
+
+#: themes/foundation/root-functions.php:445
+msgid "Slow"
+msgstr "Langsom"
+
+#: themes/foundation/root-functions.php:446
+msgid "Normal"
+msgstr "Normal"
+
+#: themes/foundation/root-functions.php:447
+msgid "Fast"
+msgstr "Hurtig"
+
+#: themes/foundation/root-functions.php:458
+msgid "Show latest posts"
+msgstr "Vis seneste beskeder"
+
+#: themes/foundation/root-functions.php:459
+msgid "Show posts from a specific tag"
+msgstr "Vis beskeder fra et specifikt tag"
+
+#: themes/foundation/root-functions.php:460
+msgid "Show posts from a specific category"
+msgstr "Vis beskeder fra en bestemt kategori"
+
+#: themes/foundation/root-functions.php:461
+msgid "Show only specific posts or pages"
+msgstr "Vis kun specifikke opslag eller sider"
+
+#: themes/foundation/root-functions.php:467
+msgid "Only this tag"
+msgstr "Kun dette tag"
+
+#: themes/foundation/root-functions.php:476
+msgid "Only this category"
+msgstr "Kun denne kategori"
+
+#: themes/foundation/root-functions.php:485
+msgid "Comma-separated list of post/page IDs"
+msgstr "Komma separeret liste med besked/side ID"
+
+#: themes/foundation/root-functions.php:504
+msgid "Enable Web-App Mode"
+msgstr "Aktiver Web-App funktion"
+
+#: themes/foundation/root-functions.php:508
+msgid "Enable persistence"
+msgstr "Aktiver vedholdenhed"
+
+#: themes/foundation/root-functions.php:509
+msgid "WPtouch loads the last visited page or post for visitors in Web-App Mode."
+msgstr "WPtouch henter den sidst besøgte side eller besked til besøgende i Web-App funktion."
+
+#: themes/foundation/root-functions.php:516
+msgid "URLs to ignore in Web-App Mode"
+msgstr "URL som skal ignoreres i Web-App Mode"
+
+#: themes/foundation/root-functions.php:536
+msgid "Notice Message"
+msgstr "Bemærk besked"
+
+#: themes/foundation/root-functions.php:539
+msgid "Show a notice message for iPhone, iPod touch & iPad visitors about my Web-App"
+msgstr "Vis en besked til brugere med iPhone, iPod touch & iPad om min Web-App"
+
+#: themes/foundation/root-functions.php:539
+msgid "WPtouch shows a notice bubble on 1st visit letting users know about your Web-App enabled website on iOS devices."
+msgstr "WPtouch viser en talebobbel til førstegangsbesøgende som giver brugere besked om din Web-App aktiveret hjemmeside på iOS enheder."
+
+#: themes/foundation/root-functions.php:540
+msgid "Notice message contents"
+msgstr "Bemærk besked indhold"
+
+#: themes/foundation/root-functions.php:540
+msgid "[device] and [icon] are dynamic and used to determine the device and iOS version. Do not remove these from your message."
+msgstr "[device] og [icon] er dynamiske og bruges til at bestemme enheden og iOS udgaven. Du må ikke fjerne disse fra din besked."
+
+#: themes/foundation/root-functions.php:544
+msgid "the notice message will be shown again for visitors"
+msgstr "beskeden vil blive vist igen til besøgende"
+
+#: themes/foundation/root-functions.php:549
+msgid "1 day until"
+msgstr "1 dag til"
+
+#: themes/foundation/root-functions.php:550
+msgid "7 days until"
+msgstr "7 dage til"
+
+#: themes/foundation/root-functions.php:551
+msgid "1 month until"
+msgstr "1 måned til"
+
+#: themes/foundation/root-functions.php:552
+msgid "Every time"
+msgstr "Altid"
+
+#: themes/foundation/root-functions.php:563
+msgid "iPhone Startup Screen"
+msgstr "iPhone opstartskærm"
+
+#: themes/foundation/root-functions.php:569
+#: themes/foundation/root-functions.php:587
+#: themes/foundation/root-functions.php:605
+#: themes/foundation/root-functions.php:624
+#: themes/foundation/root-functions.php:632
+#: themes/foundation/root-functions.php:650
+#: themes/foundation/root-functions.php:658
+msgid "%d by %d pixels (PNG)"
+msgstr "%d af %d pixels (PNG)"
+
+#: themes/foundation/root-functions.php:581
+msgid "Retina iPhone Startup Screen"
+msgstr "Retina iPhone opstartskærm"
+
+#: themes/foundation/root-functions.php:599
+msgid "iPhone 5 Startup Screen"
+msgstr "iPhone 5 opstartskærm"
+
+#: themes/foundation/root-functions.php:618
+msgid "iPad Mini and iPad Startup Screens"
+msgstr "iPad Mini og iPad opstartskærme"
+
+#: themes/foundation/root-functions.php:644
+msgid "Retina iPad Startup Screens"
+msgstr "Retina iPad Opstartsskærme"
+
+#: themes/foundation/root-functions.php:676
+msgid "Options"
+msgstr "Muligheder"
+
+#: themes/foundation/root-functions.php:682
+msgid "Icon title"
+msgstr "Ikon titel"
+
+#: themes/foundation/root-functions.php:683
+msgid "When visitors bookmark your website, this will be the title shown."
+msgstr "Når besøgende bogmærker din side, vil dette være navnet som vises."
+
+#: themes/foundation/root-functions.php:690
+msgid "Add glossy icon effect to uploaded icons"
+msgstr "Tilføj skinnende ikon effekt til oploadede ikoner"
+
+#: themes/foundation/root-functions.php:691
+msgid "A glossy effect will automatically be applied to icons for iOS devices."
+msgstr "En skinnende effekt vil automatisk blive tilføjet til ikoner på iOS enheder."
+
+#: themes/foundation/root-functions.php:702
+msgid "iPhone/Android"
+msgstr "iPhone/Android"
+
+#: themes/foundation/root-functions.php:708
+#: themes/foundation/root-functions.php:726
+#: themes/foundation/root-functions.php:745
+#: themes/foundation/root-functions.php:763
+msgid "%d by %d pixels"
+msgstr "%d af %d pixels"
+
+#: themes/foundation/root-functions.php:720
+msgid "iPhone/Android Retina"
+msgstr "iPhone/Android Retina"
+
+#: themes/foundation/root-functions.php:739
+msgid "iPad"
+msgstr "iPad"
+
+#: themes/foundation/root-functions.php:757
+msgid "iPad Retina"
+msgstr "iPad Retina"
+
+#: themes/foundation/root-functions.php:776
+msgid "Theme Footer"
+msgstr "Tema footer"
+
+#: themes/foundation/root-functions.php:779
+msgid "Custom footer content (HTML is allowed)"
+msgstr "Brugerdefineret footer indhold (HTML er tilladt)"
+
+#: themes/foundation/root-functions.php:779
+msgid "You can add custom footer content that will be displayed below the switch link."
+msgstr "Du kan tilføje skræddersyet footer indhold som vil blive vist nedenfor skift linket."
+
+#: themes/foundation/root-functions.php:790
+msgid "Service"
+msgstr "Ydelse"
+
+#: themes/foundation/root-functions.php:796
+msgid "Choose a service"
+msgstr "Vælg en service"
+
+#: themes/foundation/root-functions.php:802
+msgid "Google Adsense"
+msgstr "Google Adsense"
+
+#: themes/foundation/root-functions.php:803
+msgid "Custom"
+msgstr "Brugerdefiner"
+
+#: themes/foundation/root-functions.php:813
+msgid "Google AdSense"
+msgstr "Google AdSense"
+
+#: themes/foundation/root-functions.php:816
+msgid "Publisher ID"
+msgstr "Offentliggør ID"
+
+#: themes/foundation/root-functions.php:817
+msgid "Slot ID"
+msgstr "Slot ID"
+
+#: themes/foundation/root-functions.php:825
+msgid "Custom Ads"
+msgstr "Brugerdefiner reklamer"
+
+#: themes/foundation/root-functions.php:828
+msgid "Mobile advertising script"
+msgstr "Reklame script til mobil"
+
+#: themes/foundation/root-functions.php:837
+msgid "Ad Presentation"
+msgstr "Tilføj præsentation"
+
+#: themes/foundation/root-functions.php:843
+msgid "Theme location"
+msgstr "Tema placering"
+
+#: themes/foundation/root-functions.php:848
+msgid "In the header"
+msgstr "I headeren"
+
+#: themes/foundation/root-functions.php:849
+msgid "Above the page content"
+msgstr "Over sideindholdet"
+
+#: themes/foundation/root-functions.php:850
+msgid "Below the page content"
+msgstr "Nedenfor sideindholdet"
+
+#: themes/foundation/root-functions.php:860
+msgid "Active Pages"
+msgstr "Aktive sider"
+
+#: themes/foundation/root-functions.php:863
+msgid "Blog listings"
+msgstr "Blog visninger"
+
+#: themes/foundation/root-functions.php:864
+msgid "Single posts"
+msgstr "Enkelte opslag"
+
+#: themes/foundation/root-functions.php:865
+msgid "Static pages"
+msgstr "Statiske sider"
+
+#: themes/foundation/root-functions.php:866
+msgid "Taxonomy"
+msgstr "Klassificering"
+
+#: themes/foundation/root-functions.php:867
+msgid "Search results"
+msgstr "Søg resultater"
+
+#: themes/foundation/root-functions.php:894
+msgid "Theme Colors"
+msgstr "Tema farver"
+
+#: themes/foundation/root-functions.php:904
+msgid "Site Logo"
+msgstr "Side logo"
+
+#: themes/foundation/root-functions.php:910
+msgid "(Scaled by themes to fit logo areas as needed)"
+msgstr "(Skaleret af tema for at passe med logoets størrelse)"
+
+#: themes/foundation/root-functions.php:923
+msgid "Browser Behaviour"
+msgstr "Browser Opførsel"
+
+#: themes/foundation/root-functions.php:929
+msgid "Hide browser address-bar on page load"
+msgstr "Skjuler browserens adresse bar når siden loader"
+
+#: themes/foundation/root-functions.php:930
+msgid "Hides the browser address bar so that more of the mobile theme interface is shown."
+msgstr "Skjuler browserens adressebar så der vises mere af temaets interface på mobilen."
+
+#: themes/foundation/root-functions.php:942
+msgid "Smart App Banner"
+msgstr "Smart App Banner"
+
+#: themes/foundation/root-functions.php:948
+msgid "Enter your app's %sApp Store ID%s"
+msgstr "Indtast din apps %sApp Store ID%s"
+
+#: themes/foundation/root-functions.php:949
+msgid "Your app's unique identifier. Find your ID from the iTunes Link Maker: Search for your app. In the link it provides, your app ID is the nine-digit number in between id and ?mt. For example Angry Birds's ID is 343200656."
+msgstr "Din apps unikke id. Find dit ID gennem iTunes Link Maker: Søg efter din app. I det link som du får, vil dit app ID være det ni-cifrede nummer mellem id og ?mt. F.eks. så er Angry Birds ID 343200656."
+
+#: themes/foundation/root-functions.php:1303
+msgid "search results for '%s'"
+msgstr "søge resultater for '%s'"
+
+#: themes/foundation/root-functions.php:1305
+msgid "%sCategories &rsaquo;%s %s"
+msgstr "%sKategorier &rsaquo;%s %s"
+
+#: themes/foundation/root-functions.php:1307
+msgid "Tags &rsaquo; %s"
+msgstr "Tags &rsaquo; %s"
+
+#: themes/foundation/root-functions.php:1309
+#: themes/foundation/root-functions.php:1311
+#: themes/foundation/root-functions.php:1313
+msgid "Archives &rsaquo; %s"
+msgstr "Arkiver &rsaquo; %s"
+
+#: themes/foundation/root-functions.php:1328
+msgid "Load more search results"
+msgstr "Hent flere søgeresultater"
+
+#: themes/foundation/root-functions.php:1330
+msgid "Load more from this category"
+msgstr "Hent mere fra denne kategori"
+
+#: themes/foundation/root-functions.php:1332
+msgid "Load more tagged like this"
+msgstr "Hent mere som er tagget som denne"
+
+#: themes/foundation/root-functions.php:1334
+msgid "Load more from this day"
+msgstr "Hent mere fra denne dag"
+
+#: themes/foundation/root-functions.php:1336
+msgid "Load more from this month"
+msgstr "Hent mere fra denne måned"
+
+#: themes/foundation/root-functions.php:1338
+msgid "Load more from this year"
+msgstr "Hent mere fra dette år"
+
+#: themes/foundation/root-functions.php:1340
+msgid "Load more in this section"
+msgstr "Hent mere i denne afdeling"
+
+#: themes/foundation/root-functions.php:1342
+msgid "Load more entries"
+msgstr "Hent flere indtastninger"
+
+#: themes/foundation/root-functions.php:1424
+msgid "Post"
+msgstr "Opslå"
+
+#: themes/foundation/root-functions.php:1426
+msgid "Page"
+msgstr "Side"
+
+#: themes/simple/default/front-page.php:14
+msgid "Call Us"
+msgstr "Ring til os"
+
+#: themes/simple/default/front-page.php:21
+msgid "Our Location"
+msgstr "Vores Lokation"
+
+#: themes/simple/default/header-bottom.php:11
+msgid "Toggle Menu"
+msgstr "Toggle Menu"
+
+#: themes/simple/root-functions.php:53
+msgid "Site Menu (Pulldown)"
+msgstr "Side menu (Pulldown)"
+
+#: themes/simple/root-functions.php:56
+msgid "Pull-down menu at top of pages"
+msgstr "Pull-down menu i toppen af siderne"
+
+#: themes/simple/root-functions.php:64
+msgid "Front Page Menu"
+msgstr "Forside menu"
+
+#: themes/simple/root-functions.php:67
+msgid "Displayed below front page menu and content"
+msgstr "Vises nedenunder forside menu og indhold"
+
+#: themes/simple/root-functions.php:177
+msgid "Homepage Call Us"
+msgstr "Hjemmeside Ring til Os"
+
+#: themes/simple/root-functions.php:183
+msgid "Phone number"
+msgstr "Telefonnummer"
+
+#: themes/simple/root-functions.php:184
+msgid "Enter a phone number and a homepage menu item for 'call us' will be shown."
+msgstr "Indtast et telefonnummer, og en hjemmeside menu til 'ring til os' vil blive vist."
+
+#: themes/simple/root-functions.php:196
+msgid "Homepage Location"
+msgstr "Hjemmeside lokation"
+
+#: themes/simple/root-functions.php:202
+msgid "Map address"
+msgstr "Kort adresse"
+
+#: themes/simple/root-functions.php:203
+msgid "Enter an address and a homepage menu item for 'Our Location' will be shown."
+msgstr "Indtast en adresse og en hjemmesides menu for at vise 'Vores lokalitation'."
+
+#: themes/simple/root-functions.php:215
+msgid "Front Page Content"
+msgstr "Forside indhold"
+
+#: themes/simple/root-functions.php:221
+msgid "Front page alternate content"
+msgstr "Forsidens alternative indhold"
+
+#: themes/simple/root-functions.php:222
+msgid "Shows above the front page menu (if enabled), HTML allowed."
+msgstr "Vises ovenover forside menuen (hvis aktiveret), HTML tilladt."
+
+#: themes/simple/root-functions.php:234
+msgid "3D Menu"
+msgstr "3D Menu"
+
+#: themes/simple/root-functions.php:240
+msgid "Use a 3D slide menu on supported devices"
+msgstr "Brug en 3D slide menu på understøttede enheder"
+
+#: themes/simple/root-functions.php:253
+msgid "Blog Search"
+msgstr "Blog Søgning"
+
+#: themes/simple/root-functions.php:259
+msgid "Enable search on blog pages"
+msgstr "Aktiver søgning på blog sider"
+
+#: themes/simple/root-functions.php:297
+msgid "Add a light noise effect to the drop-down menu and theme background"
+msgstr "Tilføj en svag lydeffekt til drop-down menuen og tema baggrunden"
+
+#. Plugin Name of the plugin/theme
+msgid "WPtouch Pro"
+msgstr "WPtouch Pro"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.bravenewcode.com/product/wptouch-pro/"
+msgstr "http://www.bravenewcode.com/product/wptouch-pro/"
+
+#. Description of the plugin/theme
+msgid "The easy way to create great mobile experiences with your WordPress website."
+msgstr "Den nemme måde at oprette en lækker mobil oplevelse med din WordPress hjemmeside."
+
+#. Author of the plugin/theme
+msgid "BraveNewCode Inc."
+msgstr "BraveNewCode Inc."
+
+#. Author URI of the plugin/theme
+msgid "http://www.bravenewcode.com/"
+msgstr "http://www.bravenewcode.com/"
