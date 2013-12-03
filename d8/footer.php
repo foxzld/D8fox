@@ -1,5 +1,11 @@
 </section>
 <footer class="footer">
+    <div class="foot-links">
+        <h3>好基友</h3>
+        <ul class="xoxo blogroll">
+            <?php wp_list_bookmarks('title_li=&categorize=0'); ?>
+        </ul>
+    </div>
     <div class="footer-inner">
         <div class="copyright pull-left">
             版权所有，保留一切权利！ &copy; <?php echo date('Y'); ?> <a href="<?php bloginfo('url'); ?>"><?php bloginfo('name'); ?></a>　Theme <a href="http://www.daqianduan.com/" target="_blank"><?php echo get_current_theme(); ?></a> 优化 By <a href="http://foxzld.com/" target="_blank">孤独的北极狐</a>&nbsp;&nbsp; | <a href="http://www.miitbeian.gov.cn" target="_blank"><?php if( dopt('d_beian_b') ) echo dopt('d_beian'); ?></a>   <?php if( dopt('d_stp_b') ) echo ' | <a href="'.get_bloginfo('url').'/sitemap.xml" target="_blank">[Sitemap]</a>'; ?>  <?php if( dopt('d_stpx_b') ) echo ' | <a href="'.get_bloginfo('url').'/sitemap.html" target="_blank">[网站地图]</a>'; ?>

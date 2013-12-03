@@ -155,7 +155,7 @@ a:hover,a:focus{color:#3071A9;text-decoration:none}
 .page-sidebar{width: 225px;position: absolute;top: 0;left: 0;bottom: 0;height:100%;border-right: 1px solid #eee;}
 .content-title{font-size: 20px;font-weight: normal;padding: 15px 20px 14px;line-height: 20px;background-color: #F7F7F7;margin: 0 0 1px;border-bottom: 1px solid #eee;}
 .sidebar{float:left;margin-left:-360px;width:360px;position:relative}
-.footer{clear:both;color:#ddd;text-shadow:0 -1px 0 #333333;position:relative;z-index:1}
+.footer{clear:both;color:#ddd;position:relative;z-index:1}
 .trackcode{float:right}
 .footer-inner{padding:16px 20px 14px;color:#aaa;text-shadow:0 -1px 0 #333333;background-color:#414141;border-left:20px solid #428bca;*zoom:1}
 .footer-inner:before,.footer-inner:after{display:table;content:"";line-height:0}
@@ -1345,3 +1345,13 @@ pre.prettyprint.linenums ol li {
 
 @media print{}
 
+
+.foot-links{clear:both;margin-bottom:10px;background-color:#fff}
+.foot-links h3{position:relative;margin:0;line-height:20px;padding:6px 15px;font-size:15px;color: #555555;background-color:#F7F7F7;height: 20px;border-bottom: 1px solid #eaeaea;font-weight: normal;}
+.foot-links ul{padding:10px 15px 25px;color: #999;}
+.foot-links li{float:left;padding:0;border-bottom:none;margin-bottom: 8px;margin-left: 8px;line-height: 20px;height: 20px;}
+.foot-links li a{}
+.foot-links{clear:both;color:#ddd;position:relative;z-index:1}
+
+.foot-links a{color: #428BD1;text-decoration: none;}
+.foot-links a:hover{color: #428BD1;text-decoration: none;}
