@@ -507,4 +507,17 @@ function Bing_admin_comment_ctrlenter(){
 	</script>';
 };
 add_action('admin_footer', 'Bing_admin_comment_ctrlenter');
+
+
+//添加HTML编辑器自定义快捷标签按钮
+// -- Add Custom Quicktags ----------------------------------------
+add_action('admin_print_footer_scripts','eg_quicktags');
+function eg_quicktags() {
+?>
+<script type="text/javascript" charset="utf-8">
+edButtons[edButtons.length] = new edButton( 'button', 'D8代码', '<pre class="prettyprint linenums">', '</pre>', '' );
+</script>
+<?php
+}
+// -- Custom Quicktags End ----------------------------------------
 ?>
