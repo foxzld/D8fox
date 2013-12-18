@@ -4,7 +4,7 @@
 	Description: 大前端D8主题（付费） 技术支持：<a href="http://www.daqianduan.com">大前端</a>
 	Author: 浩子
 	Author URI: http://www.daqianduan.com
-	Version: 2.2
+	Version: 2.3
 */
 article,aside,details,figcaption,figure,footer,header,hgroup,nav,section{display:block}
 audio,canvas,video{display:inline-block;*display:inline;*zoom:1}
@@ -630,7 +630,7 @@ button.btn.btn-mini,input[type="submit"].btn.btn-mini{*padding-top:1px;*padding-
 .navbar{height:52px;background-color:#4a4a4a;*position:relative;*z-index:2;*zoom:1}
 .navbar:before,.navbar:after{display:table;content:"";line-height:0}
 .navbar:after{clear:both}
-.navbar .logo{float:left;width:230px;background:#428bca url("img/logo.jpg") no-repeat 50% 50%;height:52px;overflow:hidden;line-height:208px;font-size:18px;font-weight:bold;color:#fff;margin:0;*line-height: 0;*text-indent: -999;}
+.navbar .logo{float:left;width:230px;background:#428bca url("img/logo2.png") no-repeat 50% 50%;height:52px;overflow:hidden;line-height:208px;font-size:18px;font-weight:bold;color:#fff;margin:0;*line-height: 0;*text-indent: -999;}
 .navbar .logo a{height:52px;display:block;color:#fff;overflow:hidden}
 .navbar .nav{position:relative;left:0;display:block;float:left;margin:0 10px 0 0;font-size:14px}
 .navbar .nav.pull-right{float:right;margin-right:0}
@@ -917,6 +917,10 @@ font-weight: normal;}
 .article-content .alignleft{float:left;text-align:left;margin-right:10px}
 .article-content .aligncenter{margin: 0 auto;text-align: center;display: block;}
 .article-content .alignright{float:right;text-align:right;margin-left:10px}
+.article-content .wp-caption{border: solid 1px #eee;border-radius: 2px;padding: 10px 5px;box-shadow: 2px 2px 0 #fbfbfb;margin-bottom: 15px;max-width: 96%}
+.article-content .wp-caption-text{margin: 10px -5px -10px;border-radius: 0 0 2px 2px;background-color: #fbfbfb;border-top: 1px solid #eee;padding: 5px;color: #999;}
+.article-content .wp-caption:hover{border-color: #ddd;}
+.article-content .wp-caption:hover .wp-caption-text{color: #666;border-top-color: #ddd;}
 .article-content a{color:#428bca;text-decoration:underline}
 .article-content a:hover{color:#D9534F}
 .article-footer{background-color:#fff;border-top:1px solid #f7f7f7}
@@ -1232,11 +1236,13 @@ pre.prettyprint.linenums ol li {
 
 .navbar .screen-mini{display: none;}
 @media (max-width:979px){
+.navbar .logo, .navbar .logo a{height: 42px;display: block;width: 100%;float: none;}
+.navbar{background-color: transparent;height: auto}
 .navbar .screen-mini{display: block;float: left;}
 .navbar .screen-mini .btn{background-color: #4A4A4A;padding: 16px 22px}
 .navbar .screen-mini .btn:hover, .navbar .screen-mini .btn.active{background-color: #404040;}
 .navbar .screen-mini .btn i{margin-top: 2px;}
-.navbar .nav{position: absolute;top: 52px;left:100%;width: 100%;z-index: 999;padding: 0;opacity: 0;background-color: #eee;}
+.navbar .nav{float: none;padding: 0;background-color: #eee;margin-right: 0;display: none;}
 .navbar .nav > li{float: none;margin-right: 0;font-size: 14px;font-weight: bold;}
 .navbar .nav > li > a{padding: 10px 20px 9px;border-bottom: 1px solid #ddd;color: #444;}
 .navbar .nav li a:hover{background-color: #fff;color: #444;}
@@ -1256,8 +1262,13 @@ pre.prettyprint.linenums ol li {
 .header{margin-bottom: 1px;}
 .footer-inner{border-left: none;}
 
-.navbar .btn.screen-nav{padding: 16px 20px;height:auto;}
+.navbar .menu{float: none;margin: 15px 20px 10px;text-align: center;}
+.search-form{float: none;display: inline-block;}
+.navbar .menu .btn-group{float: none;display: inline-block;margin-top: -24px;}
+input.search-input{width: 500px;margin-bottom: 0;}
 
+.navbar .btn.screen-nav{padding: 11px 20px;height:auto;position: absolute;top: 0;left: 0;background-color: transparent;}
+.navbar .btn.screen-nav:hover{background-color: transparent;}
 
 .row-fluid{width:100%;*zoom:1}
 .row-fluid:before,.row-fluid:after{display:table;content:"";line-height:0}
@@ -1303,25 +1314,10 @@ pre.prettyprint.linenums ol li {
 .row-fluid .offset1:first-child{margin-left:8.441558441558442%;*margin-left:8.34155844155844%}
 }
 @media (max-width:767px){
-.navbar .logo, .navbar .logo a{height: 42px;}
-.navbar{height: 42px}
+
 .speedbar{display: none;}
 .sticky{display: none;}
-
-.navbar .nav{top: 100px;} 
-.navbar .menu .btn-group.pull-left{display: none;}
-
-.navbar .search-form{margin-right: 0;margin-right: 126px;float: none;}
-.navbar .search-input{margin-bottom: 0;width: 100%;}
-.navbar .search-submit{margin-bottom: 0;width: 70px;position: absolute;top: 0;right: -84px;}
-
-.navbar .menu{position: absolute;top: 42px;left:0;background-color: #eee;width: 100%;z-index: 9;padding: 0 20px;opacity: 0}
-.article-title{font-size: 15px;line-height: 20px;font-weight: bold;}
-.screen-search{display: inline-block;position: absolute;right:0;top: 0} 
-.navbar .screen-mini{float: ;}
-.navbar .screen-mini .btn{padding: 11px 15px}
-.navbar .screen-mini .btn.screen-nav{padding: 11px 18px;height:auto;}
-
+input.search-input{width: 100px;}
 .excerpt, .excerpt:hover{margin-left: -4px;padding-left: 20px;}
 .excerpt .focus{float: none;margin: 0 auto 15px;}
 .header{position: relative;}
@@ -1340,7 +1336,7 @@ pre.prettyprint.linenums ol li {
 .comt-comterinfo ul input{margin-right: 0;display: block;width: 100%;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;min-height: 30px;}
 .comt-comterinfo ul .help-inline{display: none;}
 
-.rollto{bottom: 90px;right: 2px;}
+.rollto{bottom: 2px;right: 2px;}
 }
 
 @media print{}

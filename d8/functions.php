@@ -126,7 +126,7 @@ function deel_breadcrumbs(){
     $categorys = get_the_category();
     $category = $categorys[0];
     
-    return '你的位置：<a href="'.get_bloginfo('url').'">'.get_bloginfo('name').'</a> <small>></small> '.get_category_parents($category->term_id, true, '');
+    return '你的位置：<a href="'.get_bloginfo('url').'">'.get_bloginfo('name').'</a> <small>></small> '.get_category_parents($category->term_id, true, ' <small>></small> ').'<span class="muted">'.get_the_title().'</span>';
 }
 
 // 取消原有jQuery
@@ -299,7 +299,7 @@ function deel_description() {
 	if ( !( $description ) ) $description = $blog_name . "-" . trim( wp_title('', false) );
   } elseif ( is_home () )    { $description = dopt('d_description'); // 首頁要自己加
   } elseif ( is_tag() )      { $description = $blog_name . "'" . single_tag_title('', false) . "'";
-  } elseif ( is_category() ) { $description = $blog_name . "'" . single_cat_title('', false) . "'";
+  } elseif ( is_category() ) { $description = trim(strip_tags(category_description()));
   } elseif ( is_archive() )  { $description = $blog_name . "'" . trim( wp_title('', false) ) . "'";
   } elseif ( is_search() )   { $description = $blog_name . ": '" . esc_html( $s, 1 ) . "' 的搜索結果";
   } else { $description = $blog_name . "'" . trim( wp_title('', false) ) . "'";
@@ -507,7 +507,6 @@ function Bing_admin_comment_ctrlenter(){
 	</script>';
 };
 add_action('admin_footer', 'Bing_admin_comment_ctrlenter');
-
 
 //添加HTML编辑器自定义快捷标签按钮
 // -- Add Custom Quicktags ----------------------------------------

@@ -141,33 +141,10 @@ $(document).ready(function(){
 
         switch( type ){
             case 'screen-nav':
-            	var el = $('.navbar .nav'), so = $('.navbar .menu')
+            	var el = $('.navbar .nav'), so = $('.navbar .nav')
 
-            	// el.toggleClass('active')
-
-            	if( !el.hasClass('active') ){
-            		el.addClass('active')
-            		so.animate({left: 0, opacity: 1}, 300)
-	            	el.animate({left: 0, opacity: 1}, 300, function(){
-            			_ta.addClass('active')
-	            		$('.speedbar, .container, .footer').hide()
-	            	})
-            	}else{
-            		el.removeClass('active')
-            		so.animate({left: '100%', opacity: 1}, 300)
-            		el.animate({left: '100%', opacity: 0}, 300, function(){
-            			_ta.removeClass('active')
-	            		$('.speedbar, .container, .footer').fadeIn()
-	            	})
-            	}
-            
-            break; case 'screen-search':
-            	$('.nav.roll-down').removeClass('roll-down')
-            	$('.screen-nav').removeClass('active')
-            	_ta.toggleClass('active')
-            	$('.navbar .menu:first').addClass('roll-down')
-
-				$('.search-input').focus()
+            	el.toggleClass('active')
+            	so.slideToggle(300)
 
             break; case 'totop':
             	scrollTo()

@@ -40,5 +40,6 @@ a:hover{color:#3071A9}
 	<span style="display:none"><?php if( dopt('d_track_b') != '' ) echo dopt('d_track'); ?></span>
 </div>
 <div class="demo-container demo"><?php echo $theCode; ?></div>
+<div style="display:none"><?php if( dopt('d_track_b') ) echo dopt('d_track'); ?></div>
 </body>
 </html>
