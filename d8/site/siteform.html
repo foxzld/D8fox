@@ -1,0 +1,33 @@
+<div id="siteform">
+	<span id="close" title="关闭">关闭</span>
+	<h3>站点提交</h3>
+    <div>
+    	<form id="site_form" name="site_form" method="post">
+        <p><label for="site_name">网站名称：</label><input type="text" name="site_name" id="site_name"><span id="nameinfo"></span></p>
+        <p><label for="site_url">网站地址：</label><input type="text" name="site_url" id="site_url"><span id="urlinfo">记得加上http://</span></p>
+        <p><label for="site_type">网站类型：</label>
+          <select name="site_type" id="site_type">
+          <option value="0">- 选择类型 -</option>
+              <option value="560">挖掘灵感</option>
+              <option value="559">综合素材</option>
+              <option value="555">资讯科技</option>
+              <option value="561">国外酷站</option>
+              <option value="558">前端开发</option>
+              <option value="557">学习教程</option>
+              <option value="556">UX团队</option>
+			  <option value="563">我喜欢</option>
+			  <option value="562">左邻右舍</option>
+          </select><span id="typeinfo"></span>
+        </p>
+        <p><label for="site_content">简短描述：</label><br>
+          <textarea name="site_content" cols="40" rows="6" id="site_content"></textarea><span id="textinfo"></span>
+        </p>
+        <p>
+          <input type="submit" id="but" class="btt" value="提交" >
+          <input type="reset" class="btt" value="重置">
+          <span id="textinfo"></span>
+        </p>
+      </form>
+    </div>
+    <div id="site_msg"></div>
+</div>

@@ -508,15 +508,124 @@ function Bing_admin_comment_ctrlenter(){
 };
 add_action('admin_footer', 'Bing_admin_comment_ctrlenter');
 
-//添加HTML编辑器自定义快捷标签按钮
-// -- Add Custom Quicktags ----------------------------------------
-add_action('admin_print_footer_scripts','eg_quicktags');
-function eg_quicktags() {
+
+add_action( 'admin_print_footer_scripts', 'shortcode_buttons', 100 );
+function shortcode_buttons() {
 ?>
-<script type="text/javascript" charset="utf-8">
-edButtons[edButtons.length] = new edButton( 'button', 'D8代码', '<pre class="prettyprint linenums">', '</pre>', '' );
-</script>
-<?php
-}
-// -- Custom Quicktags End ----------------------------------------
+	<script type="text/javascript">	 
+	   QTags.addButton( 'm', 'D8代码', '[d8code]这里输入内容[/d8code]'); 
+	   QTags.addButton( 'm0', 'D8图片框架', '[d8img]这里插图<div class="wp-caption-text">这里文字</div>[/d8img]'); 
+	  
+       QTags.addButton( 'm2', '下载面板', '[down]这里输入内容[/down]'); 
+       QTags.addButton( 'm3', '警告面板', '[warn]这里输入内容[/warn]');	   
+	   QTags.addButton( 'm4', '介绍面板', '[instruct]这里输入内容[/instruct]');
+	   QTags.addButton( 'm5', '文字面板', '[text]这里输入内容[/text]');
+	   QTags.addButton( 'm6', '问题面板', '[question]这里输入内容[/question]');
+	   QTags.addButton( 'm7', '教程面板', '[course]这里输入内容[/course]');
+	   QTags.addButton( 'm8', '禁止面板', '[noway]这里输入内容[/noway]');
+	   QTags.addButton( 'm9', '项目面板', '[task]这里输入内容[/task]');
+	   QTags.addButton( 'm10', '链接面板', '[link]这里输入内容[/link]');
+	   QTags.addButton( 'm11', '代码面板', '[codee]这里输入内容[/codee]');
+       	 
+	</script>
+<?php }
+
+///////////////////////////短代码///////////////////////////
+				//////////////下载/////////////
+				function downbox($atts, $content=null, $code="") {
+					$return = '<div class="down box-content">';
+					$return .= $content;
+					$return .= '</div>';
+					return $return;
+				}
+				add_shortcode('down' , 'downbox' );
+				//////////////警告/////////////
+				function warnbox($atts, $content=null, $code="") {
+					$return = '<div class="warn box-content">';
+					$return .= $content;
+					$return .= '</div>';
+					return $return;
+				}
+				add_shortcode('warn' , 'warnbox' );
+				//////////////介绍/////////////
+				function instructbox($atts, $content=null, $code="") {
+					$return = '<div class="instruct box-content">';
+					$return .= $content;
+					$return .= '</div>';
+					return $return;
+				}
+				add_shortcode('instruct' , 'instructbox' );
+				//////////////文本/////////////
+				function textbox($atts, $content=null, $code="") {
+					$return = '<div class="texts box-content">';
+					$return .= $content;
+					$return .= '</div>';
+					return $return;
+				}
+				add_shortcode('text' , 'textbox' );
+				//////////////问题/////////////
+				function questionbox($atts, $content=null, $code="") {
+					$return = '<div class="question box-content">';
+					$return .= $content;
+					$return .= '</div>';
+					return $return;
+				}
+				add_shortcode('question' , 'questionbox' );
+				//////////////教程/////////////
+				function coursebox($atts, $content=null, $code="") {
+					$return = '<div class="course box-content">';
+					$return .= $content;
+					$return .= '</div>';
+					return $return;
+				}
+				add_shortcode('course' , 'coursebox' );
+				//////////////禁止/////////////
+				function nowaybox($atts, $content=null, $code="") {
+					$return = '<div class="noway box-content">';
+					$return .= $content;
+					$return .= '</div>';
+					return $return;
+				}
+				add_shortcode('noway' , 'nowaybox' );
+				//////////////项目/////////////
+				function taskbox($atts, $content=null, $code="") {
+					$return = '<div class="task box-content">';
+					$return .= $content;
+					$return .= '</div>';
+					return $return;
+				}
+				add_shortcode('task' , 'taskbox' );
+				//////////////链接/////////////
+				function linkbox($atts, $content=null, $code="") {
+					$return = '<div class="link box-content">';
+					$return .= $content;
+					$return .= '</div>';
+					return $return;
+				}
+				add_shortcode('link' , 'linkbox' );
+				//////////////代码/////////////
+				function codeebox($atts, $content=null, $code="") {
+					$return = '<div class="codee box-content">';
+					$return .= $content;
+					$return .= '</div>';
+					return $return;
+				}
+				add_shortcode('codee' , 'codeebox' );
+				//////////////D8代码/////////////
+				function d8codebox($atts, $content=null, $code="") {
+					$return = '<pre class="prettyprint linenums">';
+					$return .= $content;
+					$return .= '</pre>';
+					return $return;
+				}
+				add_shortcode('d8code' , 'd8codebox' );
+				//////////////D8图片框架/////////////
+				function d8imgbox($atts, $content=null, $code="") {
+					$return = '<div class="wp-caption aligncenter">';
+					$return .= $content;
+					$return .= '</div>';
+					return $return;
+				}
+				add_shortcode('d8img' , 'd8imgbox' );
+							
 ?>
